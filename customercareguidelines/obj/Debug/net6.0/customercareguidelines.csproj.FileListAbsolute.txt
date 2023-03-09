@@ -1,0 +1,15 @@
+D:\Cozentus\Training\March\firstclass\customercareguidelines\bin\Debug\net6.0\customercareguidelines.exe
+D:\Cozentus\Training\March\firstclass\customercareguidelines\bin\Debug\net6.0\customercareguidelines.deps.json
+D:\Cozentus\Training\March\firstclass\customercareguidelines\bin\Debug\net6.0\customercareguidelines.runtimeconfig.json
+D:\Cozentus\Training\March\firstclass\customercareguidelines\bin\Debug\net6.0\customercareguidelines.dll
+D:\Cozentus\Training\March\firstclass\customercareguidelines\bin\Debug\net6.0\customercareguidelines.pdb
+D:\Cozentus\Training\March\firstclass\customercareguidelines\obj\Debug\net6.0\customercareguidelines.csproj.AssemblyReference.cache
+D:\Cozentus\Training\March\firstclass\customercareguidelines\obj\Debug\net6.0\customercareguidelines.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cozentus\Training\March\firstclass\customercareguidelines\obj\Debug\net6.0\customercareguidelines.AssemblyInfoInputs.cache
+D:\Cozentus\Training\March\firstclass\customercareguidelines\obj\Debug\net6.0\customercareguidelines.AssemblyInfo.cs
+D:\Cozentus\Training\March\firstclass\customercareguidelines\obj\Debug\net6.0\customercareguidelines.csproj.CoreCompileInputs.cache
+D:\Cozentus\Training\March\firstclass\customercareguidelines\obj\Debug\net6.0\customercareguidelines.dll
+D:\Cozentus\Training\March\firstclass\customercareguidelines\obj\Debug\net6.0\refint\customercareguidelines.dll
+D:\Cozentus\Training\March\firstclass\customercareguidelines\obj\Debug\net6.0\customercareguidelines.pdb
+D:\Cozentus\Training\March\firstclass\customercareguidelines\obj\Debug\net6.0\customercareguidelines.genruntimeconfig.cache
+D:\Cozentus\Training\March\firstclass\customercareguidelines\obj\Debug\net6.0\ref\customercareguidelines.dll

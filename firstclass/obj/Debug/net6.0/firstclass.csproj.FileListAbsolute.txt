@@ -1,0 +1,15 @@
+D:\Cozentus\Training\March\firstclass\firstclass\bin\Debug\net6.0\firstclass.exe
+D:\Cozentus\Training\March\firstclass\firstclass\bin\Debug\net6.0\firstclass.deps.json
+D:\Cozentus\Training\March\firstclass\firstclass\bin\Debug\net6.0\firstclass.runtimeconfig.json
+D:\Cozentus\Training\March\firstclass\firstclass\bin\Debug\net6.0\firstclass.dll
+D:\Cozentus\Training\March\firstclass\firstclass\bin\Debug\net6.0\firstclass.pdb
+D:\Cozentus\Training\March\firstclass\firstclass\obj\Debug\net6.0\firstclass.csproj.AssemblyReference.cache
+D:\Cozentus\Training\March\firstclass\firstclass\obj\Debug\net6.0\firstclass.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cozentus\Training\March\firstclass\firstclass\obj\Debug\net6.0\firstclass.AssemblyInfoInputs.cache
+D:\Cozentus\Training\March\firstclass\firstclass\obj\Debug\net6.0\firstclass.AssemblyInfo.cs
+D:\Cozentus\Training\March\firstclass\firstclass\obj\Debug\net6.0\firstclass.csproj.CoreCompileInputs.cache
+D:\Cozentus\Training\March\firstclass\firstclass\obj\Debug\net6.0\firstclass.dll
+D:\Cozentus\Training\March\firstclass\firstclass\obj\Debug\net6.0\refint\firstclass.dll
+D:\Cozentus\Training\March\firstclass\firstclass\obj\Debug\net6.0\firstclass.pdb
+D:\Cozentus\Training\March\firstclass\firstclass\obj\Debug\net6.0\firstclass.genruntimeconfig.cache
+D:\Cozentus\Training\March\firstclass\firstclass\obj\Debug\net6.0\ref\firstclass.dll

@@ -1,0 +1,15 @@
+D:\Cozentus\Training\March\firstclass\nine\bin\Debug\net6.0\nine.exe
+D:\Cozentus\Training\March\firstclass\nine\bin\Debug\net6.0\nine.deps.json
+D:\Cozentus\Training\March\firstclass\nine\bin\Debug\net6.0\nine.runtimeconfig.json
+D:\Cozentus\Training\March\firstclass\nine\bin\Debug\net6.0\nine.dll
+D:\Cozentus\Training\March\firstclass\nine\bin\Debug\net6.0\nine.pdb
+D:\Cozentus\Training\March\firstclass\nine\obj\Debug\net6.0\nine.csproj.AssemblyReference.cache
+D:\Cozentus\Training\March\firstclass\nine\obj\Debug\net6.0\nine.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cozentus\Training\March\firstclass\nine\obj\Debug\net6.0\nine.AssemblyInfoInputs.cache
+D:\Cozentus\Training\March\firstclass\nine\obj\Debug\net6.0\nine.AssemblyInfo.cs
+D:\Cozentus\Training\March\firstclass\nine\obj\Debug\net6.0\nine.csproj.CoreCompileInputs.cache
+D:\Cozentus\Training\March\firstclass\nine\obj\Debug\net6.0\nine.dll
+D:\Cozentus\Training\March\firstclass\nine\obj\Debug\net6.0\refint\nine.dll
+D:\Cozentus\Training\March\firstclass\nine\obj\Debug\net6.0\nine.pdb
+D:\Cozentus\Training\March\firstclass\nine\obj\Debug\net6.0\nine.genruntimeconfig.cache
+D:\Cozentus\Training\March\firstclass\nine\obj\Debug\net6.0\ref\nine.dll

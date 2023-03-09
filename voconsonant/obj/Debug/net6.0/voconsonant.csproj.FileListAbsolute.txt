@@ -1,0 +1,15 @@
+D:\Cozentus\Training\March\firstclass\voconsonant\bin\Debug\net6.0\voconsonant.exe
+D:\Cozentus\Training\March\firstclass\voconsonant\bin\Debug\net6.0\voconsonant.deps.json
+D:\Cozentus\Training\March\firstclass\voconsonant\bin\Debug\net6.0\voconsonant.runtimeconfig.json
+D:\Cozentus\Training\March\firstclass\voconsonant\bin\Debug\net6.0\voconsonant.dll
+D:\Cozentus\Training\March\firstclass\voconsonant\bin\Debug\net6.0\voconsonant.pdb
+D:\Cozentus\Training\March\firstclass\voconsonant\obj\Debug\net6.0\voconsonant.csproj.AssemblyReference.cache
+D:\Cozentus\Training\March\firstclass\voconsonant\obj\Debug\net6.0\voconsonant.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cozentus\Training\March\firstclass\voconsonant\obj\Debug\net6.0\voconsonant.AssemblyInfoInputs.cache
+D:\Cozentus\Training\March\firstclass\voconsonant\obj\Debug\net6.0\voconsonant.AssemblyInfo.cs
+D:\Cozentus\Training\March\firstclass\voconsonant\obj\Debug\net6.0\voconsonant.csproj.CoreCompileInputs.cache
+D:\Cozentus\Training\March\firstclass\voconsonant\obj\Debug\net6.0\voconsonant.dll
+D:\Cozentus\Training\March\firstclass\voconsonant\obj\Debug\net6.0\refint\voconsonant.dll
+D:\Cozentus\Training\March\firstclass\voconsonant\obj\Debug\net6.0\voconsonant.pdb
+D:\Cozentus\Training\March\firstclass\voconsonant\obj\Debug\net6.0\voconsonant.genruntimeconfig.cache
+D:\Cozentus\Training\March\firstclass\voconsonant\obj\Debug\net6.0\ref\voconsonant.dll

@@ -1,0 +1,15 @@
+D:\Cozentus\Training\March\firstclass\atmtransactioni\bin\Debug\net6.0\atmtransaction.exe
+D:\Cozentus\Training\March\firstclass\atmtransactioni\bin\Debug\net6.0\atmtransaction.deps.json
+D:\Cozentus\Training\March\firstclass\atmtransactioni\bin\Debug\net6.0\atmtransaction.runtimeconfig.json
+D:\Cozentus\Training\March\firstclass\atmtransactioni\bin\Debug\net6.0\atmtransaction.dll
+D:\Cozentus\Training\March\firstclass\atmtransactioni\bin\Debug\net6.0\atmtransaction.pdb
+D:\Cozentus\Training\March\firstclass\atmtransactioni\obj\Debug\net6.0\atmtransaction.csproj.AssemblyReference.cache
+D:\Cozentus\Training\March\firstclass\atmtransactioni\obj\Debug\net6.0\atmtransaction.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cozentus\Training\March\firstclass\atmtransactioni\obj\Debug\net6.0\atmtransaction.AssemblyInfoInputs.cache
+D:\Cozentus\Training\March\firstclass\atmtransactioni\obj\Debug\net6.0\atmtransaction.AssemblyInfo.cs
+D:\Cozentus\Training\March\firstclass\atmtransactioni\obj\Debug\net6.0\atmtransaction.csproj.CoreCompileInputs.cache
+D:\Cozentus\Training\March\firstclass\atmtransactioni\obj\Debug\net6.0\atmtransaction.dll
+D:\Cozentus\Training\March\firstclass\atmtransactioni\obj\Debug\net6.0\refint\atmtransaction.dll
+D:\Cozentus\Training\March\firstclass\atmtransactioni\obj\Debug\net6.0\atmtransaction.pdb
+D:\Cozentus\Training\March\firstclass\atmtransactioni\obj\Debug\net6.0\atmtransaction.genruntimeconfig.cache
+D:\Cozentus\Training\March\firstclass\atmtransactioni\obj\Debug\net6.0\ref\atmtransaction.dll

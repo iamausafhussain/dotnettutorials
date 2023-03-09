@@ -1,0 +1,15 @@
+D:\Cozentus\Training\March\firstclass\sealedPro\bin\Debug\net6.0\sealedPro.exe
+D:\Cozentus\Training\March\firstclass\sealedPro\bin\Debug\net6.0\sealedPro.deps.json
+D:\Cozentus\Training\March\firstclass\sealedPro\bin\Debug\net6.0\sealedPro.runtimeconfig.json
+D:\Cozentus\Training\March\firstclass\sealedPro\bin\Debug\net6.0\sealedPro.dll
+D:\Cozentus\Training\March\firstclass\sealedPro\bin\Debug\net6.0\sealedPro.pdb
+D:\Cozentus\Training\March\firstclass\sealedPro\obj\Debug\net6.0\sealedPro.csproj.AssemblyReference.cache
+D:\Cozentus\Training\March\firstclass\sealedPro\obj\Debug\net6.0\sealedPro.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cozentus\Training\March\firstclass\sealedPro\obj\Debug\net6.0\sealedPro.AssemblyInfoInputs.cache
+D:\Cozentus\Training\March\firstclass\sealedPro\obj\Debug\net6.0\sealedPro.AssemblyInfo.cs
+D:\Cozentus\Training\March\firstclass\sealedPro\obj\Debug\net6.0\sealedPro.csproj.CoreCompileInputs.cache
+D:\Cozentus\Training\March\firstclass\sealedPro\obj\Debug\net6.0\sealedPro.dll
+D:\Cozentus\Training\March\firstclass\sealedPro\obj\Debug\net6.0\refint\sealedPro.dll
+D:\Cozentus\Training\March\firstclass\sealedPro\obj\Debug\net6.0\sealedPro.pdb
+D:\Cozentus\Training\March\firstclass\sealedPro\obj\Debug\net6.0\sealedPro.genruntimeconfig.cache
+D:\Cozentus\Training\March\firstclass\sealedPro\obj\Debug\net6.0\ref\sealedPro.dll

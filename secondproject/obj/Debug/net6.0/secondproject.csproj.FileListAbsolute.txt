@@ -1,0 +1,15 @@
+D:\Cozentus\Training\March\firstclass\secondproject\bin\Debug\net6.0\secondproject.exe
+D:\Cozentus\Training\March\firstclass\secondproject\bin\Debug\net6.0\secondproject.deps.json
+D:\Cozentus\Training\March\firstclass\secondproject\bin\Debug\net6.0\secondproject.runtimeconfig.json
+D:\Cozentus\Training\March\firstclass\secondproject\bin\Debug\net6.0\secondproject.dll
+D:\Cozentus\Training\March\firstclass\secondproject\bin\Debug\net6.0\secondproject.pdb
+D:\Cozentus\Training\March\firstclass\secondproject\obj\Debug\net6.0\secondproject.csproj.AssemblyReference.cache
+D:\Cozentus\Training\March\firstclass\secondproject\obj\Debug\net6.0\secondproject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cozentus\Training\March\firstclass\secondproject\obj\Debug\net6.0\secondproject.AssemblyInfoInputs.cache
+D:\Cozentus\Training\March\firstclass\secondproject\obj\Debug\net6.0\secondproject.AssemblyInfo.cs
+D:\Cozentus\Training\March\firstclass\secondproject\obj\Debug\net6.0\secondproject.csproj.CoreCompileInputs.cache
+D:\Cozentus\Training\March\firstclass\secondproject\obj\Debug\net6.0\secondproject.dll
+D:\Cozentus\Training\March\firstclass\secondproject\obj\Debug\net6.0\refint\secondproject.dll
+D:\Cozentus\Training\March\firstclass\secondproject\obj\Debug\net6.0\secondproject.pdb
+D:\Cozentus\Training\March\firstclass\secondproject\obj\Debug\net6.0\secondproject.genruntimeconfig.cache
+D:\Cozentus\Training\March\firstclass\secondproject\obj\Debug\net6.0\ref\secondproject.dll
