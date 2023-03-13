@@ -1,0 +1,15 @@
+D:\Cozentus\Training\March\firstclass\TestPro\bin\Debug\net6.0\TestPro.exe
+D:\Cozentus\Training\March\firstclass\TestPro\bin\Debug\net6.0\TestPro.deps.json
+D:\Cozentus\Training\March\firstclass\TestPro\bin\Debug\net6.0\TestPro.runtimeconfig.json
+D:\Cozentus\Training\March\firstclass\TestPro\bin\Debug\net6.0\TestPro.dll
+D:\Cozentus\Training\March\firstclass\TestPro\bin\Debug\net6.0\TestPro.pdb
+D:\Cozentus\Training\March\firstclass\TestPro\obj\Debug\net6.0\TestPro.csproj.AssemblyReference.cache
+D:\Cozentus\Training\March\firstclass\TestPro\obj\Debug\net6.0\TestPro.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cozentus\Training\March\firstclass\TestPro\obj\Debug\net6.0\TestPro.AssemblyInfoInputs.cache
+D:\Cozentus\Training\March\firstclass\TestPro\obj\Debug\net6.0\TestPro.AssemblyInfo.cs
+D:\Cozentus\Training\March\firstclass\TestPro\obj\Debug\net6.0\TestPro.csproj.CoreCompileInputs.cache
+D:\Cozentus\Training\March\firstclass\TestPro\obj\Debug\net6.0\TestPro.dll
+D:\Cozentus\Training\March\firstclass\TestPro\obj\Debug\net6.0\refint\TestPro.dll
+D:\Cozentus\Training\March\firstclass\TestPro\obj\Debug\net6.0\TestPro.pdb
+D:\Cozentus\Training\March\firstclass\TestPro\obj\Debug\net6.0\TestPro.genruntimeconfig.cache
+D:\Cozentus\Training\March\firstclass\TestPro\obj\Debug\net6.0\ref\TestPro.dll

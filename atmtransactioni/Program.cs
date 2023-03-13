@@ -1,9 +1,4 @@
-﻿using System.Collections;
-using System;
-using System.Linq;
-using System.Collections.Generic;
-
-namespace atmtransaction
+﻿namespace atmtransaction
 {
     internal class Program
     {
@@ -29,12 +24,14 @@ namespace atmtransaction
                     choice = Convert.ToInt32(Console.ReadLine());
                     switch (choice)
                     {
-                        case 1: transaction.showBalance();
+                        case 1:
+                            transaction.showBalance();
                             break;
-                        case 2: transaction.showHistory();
+                        case 2:
+                            transaction.showHistory();
                             break;
                         case 3:
-                            if(transaction_limit <= 10)
+                            if (transaction_limit <= 10)
                             {
                                 transaction.createTransaction();
                                 transaction_limit++;
@@ -45,10 +42,12 @@ namespace atmtransaction
                                 Console.WriteLine("Transaction limit reached!!");
                                 break;
                             }
-                            
+
                         case 4:
-                            if(transaction_limit <= 10)
+                            if (transaction_limit <= 10)
                             {
+
+
                                 transaction.cashDeposit();
                                 transaction_limit++;
                                 break;
@@ -79,22 +78,28 @@ namespace atmtransaction
     }
 }
 
-class ATM
+public class ATM
 {
-    private int balance, current_amount;
-    int withdrawal_count = 0, prev_transaction_count = 0;
-
-    int[] prev_transaction_arr = new int[10];
+    public int balance, current_amount;
+    int withdrawal_count = 0;
 
     List<int> new_prev_transaction = new List<int>();
-    public void showBalance()
+    public bool showBalance()
     {
-        Console.WriteLine($"Your Available Balance is {this.balance}");
+        if (this.balance >= 0)
+        {
+            Console.WriteLine($"Your Available Balance is {this.balance}");
+            return true;
+        }
+        else
+        {
+            Console.WriteLine("Your balance is less than 0!!");
+            return false;
+        }
     }
 
     public void showHistory()
     {
-        var prev_transaction = new ArrayList();
         if (this.withdrawal_count == 0)
         {
             Console.WriteLine("No prev History available!!");
@@ -107,36 +112,51 @@ class ATM
                 Console.WriteLine(a);
             }
         }
-
     }
 
-    public void createTransaction()
+    public bool createTransaction()
     {
         Console.WriteLine("Enter Amount to withdraw: ");
         this.current_amount = Convert.ToInt32(Console.ReadLine());
-        if(this.balance >= this.current_amount && this.current_amount <= 1000)
+        if (this.balance >= this.current_amount && this.current_amount <= 1000 && this.current_amount > 0)
         {
             this.balance -= this.current_amount;
             this.withdrawal_count++;
             this.new_prev_transaction.Add(this.current_amount);
-            this.prev_transaction_count++;
             Console.WriteLine("Your last transaction was successful!!");
+            return true;
         }
-        else if(this.balance >= this.current_amount && this.current_amount > 1000)
+        else if (this.balance >= this.current_amount && this.current_amount > 1000 && this.current_amount > 0)
         {
             Console.WriteLine("Please Input Amount less than 1000");
+            return true;
+        }
+        else if (this.current_amount <= 0)
+        {
+            Console.WriteLine("Invalid Amount Entered!!");
+            return false;
         }
         else
         {
             Console.WriteLine("Insufficient Balance!!");
+            return false;
         }
     }
 
-    public void cashDeposit()
+    public bool cashDeposit()
     {
         Console.WriteLine("Enter amount to deposit");
         int amount = Convert.ToInt32(Console.ReadLine());
 
-        this.balance += amount;
+        if (amount > 0)
+        {
+            this.balance += amount;
+            return true;
+        }
+        else
+        {
+            Console.WriteLine("Invalid amount Entered!");
+            return false;
+        }
     }
 }
