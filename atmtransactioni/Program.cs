@@ -146,17 +146,28 @@ public class ATM
     public bool cashDeposit()
     {
         Console.WriteLine("Enter amount to deposit");
-        int amount = Convert.ToInt32(Console.ReadLine());
 
-        if (amount > 0)
+        try
         {
-            this.balance += amount;
-            return true;
+            int amount = Convert.ToInt32(Console.ReadLine());
+
+            if (amount > 0)
+            {
+                this.balance += amount;
+                return true;
+            }
+            else
+            {
+                Console.WriteLine("Invalid amount Entered!");
+                return false;
+            }
         }
-        else
+        catch (Exception e)
         {
-            Console.WriteLine("Invalid amount Entered!");
+            Console.WriteLine("Incorrect Value Entered!");
             return false;
         }
+
+
     }
 }
