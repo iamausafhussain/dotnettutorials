@@ -33,6 +33,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "atmtransactionTest", "atmtr
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Coll_Gen", "Coll_Gen\Coll_Gen.csproj", "{BAA3EC7D-A06D-499C-A33B-14F07181B890}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoOne", "DemoOne\DemoOne.csproj", "{280A828B-3BCE-4BA5-A214-DE69D6FCD7E5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{BAA3EC7D-A06D-499C-A33B-14F07181B890}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BAA3EC7D-A06D-499C-A33B-14F07181B890}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BAA3EC7D-A06D-499C-A33B-14F07181B890}.Release|Any CPU.Build.0 = Release|Any CPU
+		{280A828B-3BCE-4BA5-A214-DE69D6FCD7E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{280A828B-3BCE-4BA5-A214-DE69D6FCD7E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{280A828B-3BCE-4BA5-A214-DE69D6FCD7E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{280A828B-3BCE-4BA5-A214-DE69D6FCD7E5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

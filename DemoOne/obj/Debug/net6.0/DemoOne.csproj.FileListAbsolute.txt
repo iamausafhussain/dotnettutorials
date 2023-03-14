@@ -1,0 +1,15 @@
+D:\Cozentus\Training\March\firstclass\DemoOne\bin\Debug\net6.0\DemoOne.exe
+D:\Cozentus\Training\March\firstclass\DemoOne\bin\Debug\net6.0\DemoOne.deps.json
+D:\Cozentus\Training\March\firstclass\DemoOne\bin\Debug\net6.0\DemoOne.runtimeconfig.json
+D:\Cozentus\Training\March\firstclass\DemoOne\bin\Debug\net6.0\DemoOne.dll
+D:\Cozentus\Training\March\firstclass\DemoOne\bin\Debug\net6.0\DemoOne.pdb
+D:\Cozentus\Training\March\firstclass\DemoOne\obj\Debug\net6.0\DemoOne.csproj.AssemblyReference.cache
+D:\Cozentus\Training\March\firstclass\DemoOne\obj\Debug\net6.0\DemoOne.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cozentus\Training\March\firstclass\DemoOne\obj\Debug\net6.0\DemoOne.AssemblyInfoInputs.cache
+D:\Cozentus\Training\March\firstclass\DemoOne\obj\Debug\net6.0\DemoOne.AssemblyInfo.cs
+D:\Cozentus\Training\March\firstclass\DemoOne\obj\Debug\net6.0\DemoOne.csproj.CoreCompileInputs.cache
+D:\Cozentus\Training\March\firstclass\DemoOne\obj\Debug\net6.0\DemoOne.dll
+D:\Cozentus\Training\March\firstclass\DemoOne\obj\Debug\net6.0\refint\DemoOne.dll
+D:\Cozentus\Training\March\firstclass\DemoOne\obj\Debug\net6.0\DemoOne.pdb
+D:\Cozentus\Training\March\firstclass\DemoOne\obj\Debug\net6.0\DemoOne.genruntimeconfig.cache
+D:\Cozentus\Training\March\firstclass\DemoOne\obj\Debug\net6.0\ref\DemoOne.dll
