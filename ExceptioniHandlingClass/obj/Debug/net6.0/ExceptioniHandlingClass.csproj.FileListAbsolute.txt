@@ -1,0 +1,15 @@
+D:\Cozentus\Training\March\firstclass\ExceptioniHandlingClass\bin\Debug\net6.0\ExceptioniHandlingClass.exe
+D:\Cozentus\Training\March\firstclass\ExceptioniHandlingClass\bin\Debug\net6.0\ExceptioniHandlingClass.deps.json
+D:\Cozentus\Training\March\firstclass\ExceptioniHandlingClass\bin\Debug\net6.0\ExceptioniHandlingClass.runtimeconfig.json
+D:\Cozentus\Training\March\firstclass\ExceptioniHandlingClass\bin\Debug\net6.0\ExceptioniHandlingClass.dll
+D:\Cozentus\Training\March\firstclass\ExceptioniHandlingClass\bin\Debug\net6.0\ExceptioniHandlingClass.pdb
+D:\Cozentus\Training\March\firstclass\ExceptioniHandlingClass\obj\Debug\net6.0\ExceptioniHandlingClass.csproj.AssemblyReference.cache
+D:\Cozentus\Training\March\firstclass\ExceptioniHandlingClass\obj\Debug\net6.0\ExceptioniHandlingClass.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cozentus\Training\March\firstclass\ExceptioniHandlingClass\obj\Debug\net6.0\ExceptioniHandlingClass.AssemblyInfoInputs.cache
+D:\Cozentus\Training\March\firstclass\ExceptioniHandlingClass\obj\Debug\net6.0\ExceptioniHandlingClass.AssemblyInfo.cs
+D:\Cozentus\Training\March\firstclass\ExceptioniHandlingClass\obj\Debug\net6.0\ExceptioniHandlingClass.csproj.CoreCompileInputs.cache
+D:\Cozentus\Training\March\firstclass\ExceptioniHandlingClass\obj\Debug\net6.0\ExceptioniHandlingClass.dll
+D:\Cozentus\Training\March\firstclass\ExceptioniHandlingClass\obj\Debug\net6.0\refint\ExceptioniHandlingClass.dll
+D:\Cozentus\Training\March\firstclass\ExceptioniHandlingClass\obj\Debug\net6.0\ExceptioniHandlingClass.pdb
+D:\Cozentus\Training\March\firstclass\ExceptioniHandlingClass\obj\Debug\net6.0\ExceptioniHandlingClass.genruntimeconfig.cache
+D:\Cozentus\Training\March\firstclass\ExceptioniHandlingClass\obj\Debug\net6.0\ref\ExceptioniHandlingClass.dll

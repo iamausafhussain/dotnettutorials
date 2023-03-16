@@ -1,0 +1,15 @@
+D:\Cozentus\Training\March\firstclass\DemoInherit\bin\Debug\net6.0\DemoInherit.exe
+D:\Cozentus\Training\March\firstclass\DemoInherit\bin\Debug\net6.0\DemoInherit.deps.json
+D:\Cozentus\Training\March\firstclass\DemoInherit\bin\Debug\net6.0\DemoInherit.runtimeconfig.json
+D:\Cozentus\Training\March\firstclass\DemoInherit\bin\Debug\net6.0\DemoInherit.dll
+D:\Cozentus\Training\March\firstclass\DemoInherit\bin\Debug\net6.0\DemoInherit.pdb
+D:\Cozentus\Training\March\firstclass\DemoInherit\obj\Debug\net6.0\DemoInherit.csproj.AssemblyReference.cache
+D:\Cozentus\Training\March\firstclass\DemoInherit\obj\Debug\net6.0\DemoInherit.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cozentus\Training\March\firstclass\DemoInherit\obj\Debug\net6.0\DemoInherit.AssemblyInfoInputs.cache
+D:\Cozentus\Training\March\firstclass\DemoInherit\obj\Debug\net6.0\DemoInherit.AssemblyInfo.cs
+D:\Cozentus\Training\March\firstclass\DemoInherit\obj\Debug\net6.0\DemoInherit.csproj.CoreCompileInputs.cache
+D:\Cozentus\Training\March\firstclass\DemoInherit\obj\Debug\net6.0\DemoInherit.dll
+D:\Cozentus\Training\March\firstclass\DemoInherit\obj\Debug\net6.0\refint\DemoInherit.dll
+D:\Cozentus\Training\March\firstclass\DemoInherit\obj\Debug\net6.0\DemoInherit.pdb
+D:\Cozentus\Training\March\firstclass\DemoInherit\obj\Debug\net6.0\DemoInherit.genruntimeconfig.cache
+D:\Cozentus\Training\March\firstclass\DemoInherit\obj\Debug\net6.0\ref\DemoInherit.dll

@@ -1,0 +1,15 @@
+D:\Cozentus\Training\March\firstclass\NewDemo\bin\Debug\net6.0\NewDemo.exe
+D:\Cozentus\Training\March\firstclass\NewDemo\bin\Debug\net6.0\NewDemo.deps.json
+D:\Cozentus\Training\March\firstclass\NewDemo\bin\Debug\net6.0\NewDemo.runtimeconfig.json
+D:\Cozentus\Training\March\firstclass\NewDemo\bin\Debug\net6.0\NewDemo.dll
+D:\Cozentus\Training\March\firstclass\NewDemo\bin\Debug\net6.0\NewDemo.pdb
+D:\Cozentus\Training\March\firstclass\NewDemo\obj\Debug\net6.0\NewDemo.csproj.AssemblyReference.cache
+D:\Cozentus\Training\March\firstclass\NewDemo\obj\Debug\net6.0\NewDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cozentus\Training\March\firstclass\NewDemo\obj\Debug\net6.0\NewDemo.AssemblyInfoInputs.cache
+D:\Cozentus\Training\March\firstclass\NewDemo\obj\Debug\net6.0\NewDemo.AssemblyInfo.cs
+D:\Cozentus\Training\March\firstclass\NewDemo\obj\Debug\net6.0\NewDemo.csproj.CoreCompileInputs.cache
+D:\Cozentus\Training\March\firstclass\NewDemo\obj\Debug\net6.0\NewDemo.dll
+D:\Cozentus\Training\March\firstclass\NewDemo\obj\Debug\net6.0\refint\NewDemo.dll
+D:\Cozentus\Training\March\firstclass\NewDemo\obj\Debug\net6.0\NewDemo.pdb
+D:\Cozentus\Training\March\firstclass\NewDemo\obj\Debug\net6.0\NewDemo.genruntimeconfig.cache
+D:\Cozentus\Training\March\firstclass\NewDemo\obj\Debug\net6.0\ref\NewDemo.dll
