@@ -1,0 +1,15 @@
+D:\Cozentus\Training\March\firstclass\Accounting\bin\Debug\net6.0\Accounting.exe
+D:\Cozentus\Training\March\firstclass\Accounting\bin\Debug\net6.0\Accounting.deps.json
+D:\Cozentus\Training\March\firstclass\Accounting\bin\Debug\net6.0\Accounting.runtimeconfig.json
+D:\Cozentus\Training\March\firstclass\Accounting\bin\Debug\net6.0\Accounting.dll
+D:\Cozentus\Training\March\firstclass\Accounting\bin\Debug\net6.0\Accounting.pdb
+D:\Cozentus\Training\March\firstclass\Accounting\obj\Debug\net6.0\Accounting.csproj.AssemblyReference.cache
+D:\Cozentus\Training\March\firstclass\Accounting\obj\Debug\net6.0\Accounting.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cozentus\Training\March\firstclass\Accounting\obj\Debug\net6.0\Accounting.AssemblyInfoInputs.cache
+D:\Cozentus\Training\March\firstclass\Accounting\obj\Debug\net6.0\Accounting.AssemblyInfo.cs
+D:\Cozentus\Training\March\firstclass\Accounting\obj\Debug\net6.0\Accounting.csproj.CoreCompileInputs.cache
+D:\Cozentus\Training\March\firstclass\Accounting\obj\Debug\net6.0\Accounting.dll
+D:\Cozentus\Training\March\firstclass\Accounting\obj\Debug\net6.0\refint\Accounting.dll
+D:\Cozentus\Training\March\firstclass\Accounting\obj\Debug\net6.0\Accounting.pdb
+D:\Cozentus\Training\March\firstclass\Accounting\obj\Debug\net6.0\Accounting.genruntimeconfig.cache
+D:\Cozentus\Training\March\firstclass\Accounting\obj\Debug\net6.0\ref\Accounting.dll
