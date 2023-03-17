@@ -4,7 +4,10 @@
     {
         static void Main(string[] args)
         {
-            Student student = new Student();
+            /*Student student = new Student();*/
+            Student.Del_set del_set = new Student.Del_set(Student.setStudent);
+            Student.Del_get del_get = new Student.Del_get(Student.getStudent);
+
             char ch;
             int choice;
             do
@@ -24,13 +27,16 @@
                         Console.WriteLine("Enter Student Address:");
                         string student_address = Console.ReadLine();
 
-                        student = new Student(student_id, student_name, student_city, student_address);
+                        /*student = new Student(student_id, student_name, student_city, student_address);*/
+
+                        del_set.Invoke(student_id, student_name, student_city, student_address);
+
 
                         Console.WriteLine("\nDetails Successfully Saved!");
 
                         break;
                     case 2:
-                        student.showDetails();
+                        del_get.Invoke();
                         break;
                     case 3: return;
                 }
