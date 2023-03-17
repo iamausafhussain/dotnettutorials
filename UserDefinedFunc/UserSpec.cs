@@ -26,11 +26,10 @@
             return newString;
         }
 
-        public static int GetNextNumber(ref int value)
+        public static void ValueRefFunc(ref int receive_value)
         {
-            int resultValue = value;
-            resultValue += 1;
-            return resultValue;
+            receive_value *= 100;
+            Console.WriteLine($"Inside ValueRefFunc: {receive_value}");
         }
     }
 }

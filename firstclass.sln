@@ -47,6 +47,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UserDefinedFunc", "UserDefi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValRefDemo", "ValRefDemo\ValRefDemo.csproj", "{AA3C06F5-4895-472F-8327-513CD86D07C1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentDemo", "StudentDemo\StudentDemo.csproj", "{DC7936A2-AC32-4BD0-AD07-544B24FE2A7B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -141,6 +143,10 @@ Global
 		{AA3C06F5-4895-472F-8327-513CD86D07C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AA3C06F5-4895-472F-8327-513CD86D07C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AA3C06F5-4895-472F-8327-513CD86D07C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC7936A2-AC32-4BD0-AD07-544B24FE2A7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC7936A2-AC32-4BD0-AD07-544B24FE2A7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC7936A2-AC32-4BD0-AD07-544B24FE2A7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC7936A2-AC32-4BD0-AD07-544B24FE2A7B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
