@@ -1,0 +1,15 @@
+D:\Cozentus\Training\March\firstclass\ValRefDemo\bin\Debug\net6.0\ValRefDemo.exe
+D:\Cozentus\Training\March\firstclass\ValRefDemo\bin\Debug\net6.0\ValRefDemo.deps.json
+D:\Cozentus\Training\March\firstclass\ValRefDemo\bin\Debug\net6.0\ValRefDemo.runtimeconfig.json
+D:\Cozentus\Training\March\firstclass\ValRefDemo\bin\Debug\net6.0\ValRefDemo.dll
+D:\Cozentus\Training\March\firstclass\ValRefDemo\bin\Debug\net6.0\ValRefDemo.pdb
+D:\Cozentus\Training\March\firstclass\ValRefDemo\obj\Debug\net6.0\ValRefDemo.csproj.AssemblyReference.cache
+D:\Cozentus\Training\March\firstclass\ValRefDemo\obj\Debug\net6.0\ValRefDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cozentus\Training\March\firstclass\ValRefDemo\obj\Debug\net6.0\ValRefDemo.AssemblyInfoInputs.cache
+D:\Cozentus\Training\March\firstclass\ValRefDemo\obj\Debug\net6.0\ValRefDemo.AssemblyInfo.cs
+D:\Cozentus\Training\March\firstclass\ValRefDemo\obj\Debug\net6.0\ValRefDemo.csproj.CoreCompileInputs.cache
+D:\Cozentus\Training\March\firstclass\ValRefDemo\obj\Debug\net6.0\ValRefDemo.dll
+D:\Cozentus\Training\March\firstclass\ValRefDemo\obj\Debug\net6.0\refint\ValRefDemo.dll
+D:\Cozentus\Training\March\firstclass\ValRefDemo\obj\Debug\net6.0\ValRefDemo.pdb
+D:\Cozentus\Training\March\firstclass\ValRefDemo\obj\Debug\net6.0\ValRefDemo.genruntimeconfig.cache
+D:\Cozentus\Training\March\firstclass\ValRefDemo\obj\Debug\net6.0\ref\ValRefDemo.dll

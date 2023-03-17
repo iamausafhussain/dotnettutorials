@@ -1,0 +1,15 @@
+D:\Cozentus\Training\March\firstclass\UserDefinedFunc\obj\Debug\net6.0\UserDefinedFunc.csproj.AssemblyReference.cache
+D:\Cozentus\Training\March\firstclass\UserDefinedFunc\obj\Debug\net6.0\UserDefinedFunc.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cozentus\Training\March\firstclass\UserDefinedFunc\obj\Debug\net6.0\UserDefinedFunc.AssemblyInfoInputs.cache
+D:\Cozentus\Training\March\firstclass\UserDefinedFunc\obj\Debug\net6.0\UserDefinedFunc.AssemblyInfo.cs
+D:\Cozentus\Training\March\firstclass\UserDefinedFunc\obj\Debug\net6.0\UserDefinedFunc.csproj.CoreCompileInputs.cache
+D:\Cozentus\Training\March\firstclass\UserDefinedFunc\bin\Debug\net6.0\UserDefinedFunc.exe
+D:\Cozentus\Training\March\firstclass\UserDefinedFunc\bin\Debug\net6.0\UserDefinedFunc.deps.json
+D:\Cozentus\Training\March\firstclass\UserDefinedFunc\bin\Debug\net6.0\UserDefinedFunc.runtimeconfig.json
+D:\Cozentus\Training\March\firstclass\UserDefinedFunc\bin\Debug\net6.0\UserDefinedFunc.dll
+D:\Cozentus\Training\March\firstclass\UserDefinedFunc\bin\Debug\net6.0\UserDefinedFunc.pdb
+D:\Cozentus\Training\March\firstclass\UserDefinedFunc\obj\Debug\net6.0\UserDefinedFunc.dll
+D:\Cozentus\Training\March\firstclass\UserDefinedFunc\obj\Debug\net6.0\refint\UserDefinedFunc.dll
+D:\Cozentus\Training\March\firstclass\UserDefinedFunc\obj\Debug\net6.0\UserDefinedFunc.pdb
+D:\Cozentus\Training\March\firstclass\UserDefinedFunc\obj\Debug\net6.0\UserDefinedFunc.genruntimeconfig.cache
+D:\Cozentus\Training\March\firstclass\UserDefinedFunc\obj\Debug\net6.0\ref\UserDefinedFunc.dll
