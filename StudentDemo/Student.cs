@@ -32,7 +32,6 @@
             name = student_name;
             city = student_city;
             address = student_address;
-
         }
 
         public static void getStudent()
