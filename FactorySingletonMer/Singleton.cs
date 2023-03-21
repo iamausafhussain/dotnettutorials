@@ -14,7 +14,7 @@
             }
         }
 
-        private SingletonClass()
+        public SingletonClass()
         {
             counter++;
             Console.WriteLine($"Counter: {counter}");

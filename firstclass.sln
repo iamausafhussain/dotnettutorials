@@ -53,11 +53,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KeywordPractiseDemo", "Keyw
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LaptopConfig", "LaptopConfig\LaptopConfig.csproj", "{622B598C-AF2A-494D-B8FE-F015C74F363C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryPattern", "FactoryPattern\FactoryPattern.csproj", "{DE0AD7C2-A480-4612-BA1E-038157BFA7DE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FactoryPattern", "FactoryPattern\FactoryPattern.csproj", "{DE0AD7C2-A480-4612-BA1E-038157BFA7DE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingleTonDesignPattern", "SingleTonDesignPattern\SingleTonDesignPattern.csproj", "{234D15FB-152C-42AE-AA84-82694F601699}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SingleTonDesignPattern", "SingleTonDesignPattern\SingleTonDesignPattern.csproj", "{234D15FB-152C-42AE-AA84-82694F601699}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactorySingletonMer", "FactorySingletonMer\FactorySingletonMer.csproj", "{EF7499BF-EC34-4361-A3E8-B23DB5B17B31}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FactorySingletonMer", "FactorySingletonMer\FactorySingletonMer.csproj", "{EF7499BF-EC34-4361-A3E8-B23DB5B17B31}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AtmFactory", "AtmFactory\AtmFactory.csproj", "{144E2FC7-9403-4B4B-9325-BD123094E54E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AtmSingleton", "AtmSingleton\AtmSingleton.csproj", "{E2AB5740-F84A-4A8B-B505-3CA91158B2D6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -177,6 +181,14 @@ Global
 		{EF7499BF-EC34-4361-A3E8-B23DB5B17B31}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EF7499BF-EC34-4361-A3E8-B23DB5B17B31}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EF7499BF-EC34-4361-A3E8-B23DB5B17B31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{144E2FC7-9403-4B4B-9325-BD123094E54E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{144E2FC7-9403-4B4B-9325-BD123094E54E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{144E2FC7-9403-4B4B-9325-BD123094E54E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{144E2FC7-9403-4B4B-9325-BD123094E54E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2AB5740-F84A-4A8B-B505-3CA91158B2D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2AB5740-F84A-4A8B-B505-3CA91158B2D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2AB5740-F84A-4A8B-B505-3CA91158B2D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2AB5740-F84A-4A8B-B505-3CA91158B2D6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

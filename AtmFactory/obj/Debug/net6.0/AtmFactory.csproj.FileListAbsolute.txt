@@ -1,0 +1,15 @@
+D:\Cozentus\Training\March\firstclass\AtmFactory\bin\Debug\net6.0\AtmFactory.exe
+D:\Cozentus\Training\March\firstclass\AtmFactory\bin\Debug\net6.0\AtmFactory.deps.json
+D:\Cozentus\Training\March\firstclass\AtmFactory\bin\Debug\net6.0\AtmFactory.runtimeconfig.json
+D:\Cozentus\Training\March\firstclass\AtmFactory\bin\Debug\net6.0\AtmFactory.dll
+D:\Cozentus\Training\March\firstclass\AtmFactory\bin\Debug\net6.0\AtmFactory.pdb
+D:\Cozentus\Training\March\firstclass\AtmFactory\obj\Debug\net6.0\AtmFactory.csproj.AssemblyReference.cache
+D:\Cozentus\Training\March\firstclass\AtmFactory\obj\Debug\net6.0\AtmFactory.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cozentus\Training\March\firstclass\AtmFactory\obj\Debug\net6.0\AtmFactory.AssemblyInfoInputs.cache
+D:\Cozentus\Training\March\firstclass\AtmFactory\obj\Debug\net6.0\AtmFactory.AssemblyInfo.cs
+D:\Cozentus\Training\March\firstclass\AtmFactory\obj\Debug\net6.0\AtmFactory.csproj.CoreCompileInputs.cache
+D:\Cozentus\Training\March\firstclass\AtmFactory\obj\Debug\net6.0\AtmFactory.dll
+D:\Cozentus\Training\March\firstclass\AtmFactory\obj\Debug\net6.0\refint\AtmFactory.dll
+D:\Cozentus\Training\March\firstclass\AtmFactory\obj\Debug\net6.0\AtmFactory.pdb
+D:\Cozentus\Training\March\firstclass\AtmFactory\obj\Debug\net6.0\AtmFactory.genruntimeconfig.cache
+D:\Cozentus\Training\March\firstclass\AtmFactory\obj\Debug\net6.0\ref\AtmFactory.dll

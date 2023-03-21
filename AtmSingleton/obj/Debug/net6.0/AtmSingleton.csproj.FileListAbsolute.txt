@@ -1,0 +1,15 @@
+D:\Cozentus\Training\March\firstclass\AtmSingleton\bin\Debug\net6.0\AtmSingleton.exe
+D:\Cozentus\Training\March\firstclass\AtmSingleton\bin\Debug\net6.0\AtmSingleton.deps.json
+D:\Cozentus\Training\March\firstclass\AtmSingleton\bin\Debug\net6.0\AtmSingleton.runtimeconfig.json
+D:\Cozentus\Training\March\firstclass\AtmSingleton\bin\Debug\net6.0\AtmSingleton.dll
+D:\Cozentus\Training\March\firstclass\AtmSingleton\bin\Debug\net6.0\AtmSingleton.pdb
+D:\Cozentus\Training\March\firstclass\AtmSingleton\obj\Debug\net6.0\AtmSingleton.csproj.AssemblyReference.cache
+D:\Cozentus\Training\March\firstclass\AtmSingleton\obj\Debug\net6.0\AtmSingleton.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cozentus\Training\March\firstclass\AtmSingleton\obj\Debug\net6.0\AtmSingleton.AssemblyInfoInputs.cache
+D:\Cozentus\Training\March\firstclass\AtmSingleton\obj\Debug\net6.0\AtmSingleton.AssemblyInfo.cs
+D:\Cozentus\Training\March\firstclass\AtmSingleton\obj\Debug\net6.0\AtmSingleton.csproj.CoreCompileInputs.cache
+D:\Cozentus\Training\March\firstclass\AtmSingleton\obj\Debug\net6.0\AtmSingleton.dll
+D:\Cozentus\Training\March\firstclass\AtmSingleton\obj\Debug\net6.0\refint\AtmSingleton.dll
+D:\Cozentus\Training\March\firstclass\AtmSingleton\obj\Debug\net6.0\AtmSingleton.pdb
+D:\Cozentus\Training\March\firstclass\AtmSingleton\obj\Debug\net6.0\AtmSingleton.genruntimeconfig.cache
+D:\Cozentus\Training\March\firstclass\AtmSingleton\obj\Debug\net6.0\ref\AtmSingleton.dll
