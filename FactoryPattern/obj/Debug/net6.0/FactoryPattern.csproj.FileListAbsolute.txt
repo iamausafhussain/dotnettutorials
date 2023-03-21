@@ -1,0 +1,15 @@
+D:\Cozentus\Training\March\firstclass\FactoryPattern\bin\Debug\net6.0\FactoryPattern.exe
+D:\Cozentus\Training\March\firstclass\FactoryPattern\bin\Debug\net6.0\FactoryPattern.deps.json
+D:\Cozentus\Training\March\firstclass\FactoryPattern\bin\Debug\net6.0\FactoryPattern.runtimeconfig.json
+D:\Cozentus\Training\March\firstclass\FactoryPattern\bin\Debug\net6.0\FactoryPattern.dll
+D:\Cozentus\Training\March\firstclass\FactoryPattern\bin\Debug\net6.0\FactoryPattern.pdb
+D:\Cozentus\Training\March\firstclass\FactoryPattern\obj\Debug\net6.0\FactoryPattern.csproj.AssemblyReference.cache
+D:\Cozentus\Training\March\firstclass\FactoryPattern\obj\Debug\net6.0\FactoryPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cozentus\Training\March\firstclass\FactoryPattern\obj\Debug\net6.0\FactoryPattern.AssemblyInfoInputs.cache
+D:\Cozentus\Training\March\firstclass\FactoryPattern\obj\Debug\net6.0\FactoryPattern.AssemblyInfo.cs
+D:\Cozentus\Training\March\firstclass\FactoryPattern\obj\Debug\net6.0\FactoryPattern.csproj.CoreCompileInputs.cache
+D:\Cozentus\Training\March\firstclass\FactoryPattern\obj\Debug\net6.0\FactoryPattern.dll
+D:\Cozentus\Training\March\firstclass\FactoryPattern\obj\Debug\net6.0\refint\FactoryPattern.dll
+D:\Cozentus\Training\March\firstclass\FactoryPattern\obj\Debug\net6.0\FactoryPattern.pdb
+D:\Cozentus\Training\March\firstclass\FactoryPattern\obj\Debug\net6.0\FactoryPattern.genruntimeconfig.cache
+D:\Cozentus\Training\March\firstclass\FactoryPattern\obj\Debug\net6.0\ref\FactoryPattern.dll

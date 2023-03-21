@@ -1,0 +1,15 @@
+D:\Cozentus\Training\March\firstclass\LaptopConfig\bin\Debug\net6.0\LaptopConfig.exe
+D:\Cozentus\Training\March\firstclass\LaptopConfig\bin\Debug\net6.0\LaptopConfig.deps.json
+D:\Cozentus\Training\March\firstclass\LaptopConfig\bin\Debug\net6.0\LaptopConfig.runtimeconfig.json
+D:\Cozentus\Training\March\firstclass\LaptopConfig\bin\Debug\net6.0\LaptopConfig.dll
+D:\Cozentus\Training\March\firstclass\LaptopConfig\bin\Debug\net6.0\LaptopConfig.pdb
+D:\Cozentus\Training\March\firstclass\LaptopConfig\obj\Debug\net6.0\LaptopConfig.csproj.AssemblyReference.cache
+D:\Cozentus\Training\March\firstclass\LaptopConfig\obj\Debug\net6.0\LaptopConfig.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cozentus\Training\March\firstclass\LaptopConfig\obj\Debug\net6.0\LaptopConfig.AssemblyInfoInputs.cache
+D:\Cozentus\Training\March\firstclass\LaptopConfig\obj\Debug\net6.0\LaptopConfig.AssemblyInfo.cs
+D:\Cozentus\Training\March\firstclass\LaptopConfig\obj\Debug\net6.0\LaptopConfig.csproj.CoreCompileInputs.cache
+D:\Cozentus\Training\March\firstclass\LaptopConfig\obj\Debug\net6.0\LaptopConfig.dll
+D:\Cozentus\Training\March\firstclass\LaptopConfig\obj\Debug\net6.0\refint\LaptopConfig.dll
+D:\Cozentus\Training\March\firstclass\LaptopConfig\obj\Debug\net6.0\LaptopConfig.pdb
+D:\Cozentus\Training\March\firstclass\LaptopConfig\obj\Debug\net6.0\LaptopConfig.genruntimeconfig.cache
+D:\Cozentus\Training\March\firstclass\LaptopConfig\obj\Debug\net6.0\ref\LaptopConfig.dll

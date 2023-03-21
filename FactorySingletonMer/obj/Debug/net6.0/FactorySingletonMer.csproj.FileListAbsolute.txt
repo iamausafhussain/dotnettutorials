@@ -1,0 +1,15 @@
+D:\Cozentus\Training\March\firstclass\FactorySingletonMer\bin\Debug\net6.0\FactorySingletonMer.exe
+D:\Cozentus\Training\March\firstclass\FactorySingletonMer\bin\Debug\net6.0\FactorySingletonMer.deps.json
+D:\Cozentus\Training\March\firstclass\FactorySingletonMer\bin\Debug\net6.0\FactorySingletonMer.runtimeconfig.json
+D:\Cozentus\Training\March\firstclass\FactorySingletonMer\bin\Debug\net6.0\FactorySingletonMer.dll
+D:\Cozentus\Training\March\firstclass\FactorySingletonMer\bin\Debug\net6.0\FactorySingletonMer.pdb
+D:\Cozentus\Training\March\firstclass\FactorySingletonMer\obj\Debug\net6.0\FactorySingletonMer.csproj.AssemblyReference.cache
+D:\Cozentus\Training\March\firstclass\FactorySingletonMer\obj\Debug\net6.0\FactorySingletonMer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cozentus\Training\March\firstclass\FactorySingletonMer\obj\Debug\net6.0\FactorySingletonMer.AssemblyInfoInputs.cache
+D:\Cozentus\Training\March\firstclass\FactorySingletonMer\obj\Debug\net6.0\FactorySingletonMer.AssemblyInfo.cs
+D:\Cozentus\Training\March\firstclass\FactorySingletonMer\obj\Debug\net6.0\FactorySingletonMer.csproj.CoreCompileInputs.cache
+D:\Cozentus\Training\March\firstclass\FactorySingletonMer\obj\Debug\net6.0\FactorySingletonMer.dll
+D:\Cozentus\Training\March\firstclass\FactorySingletonMer\obj\Debug\net6.0\refint\FactorySingletonMer.dll
+D:\Cozentus\Training\March\firstclass\FactorySingletonMer\obj\Debug\net6.0\FactorySingletonMer.pdb
+D:\Cozentus\Training\March\firstclass\FactorySingletonMer\obj\Debug\net6.0\FactorySingletonMer.genruntimeconfig.cache
+D:\Cozentus\Training\March\firstclass\FactorySingletonMer\obj\Debug\net6.0\ref\FactorySingletonMer.dll

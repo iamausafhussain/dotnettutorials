@@ -1,0 +1,15 @@
+D:\Cozentus\Training\March\firstclass\SingleTonDesignPattern\bin\Debug\net6.0\SingleTonDesignPattern.exe
+D:\Cozentus\Training\March\firstclass\SingleTonDesignPattern\bin\Debug\net6.0\SingleTonDesignPattern.deps.json
+D:\Cozentus\Training\March\firstclass\SingleTonDesignPattern\bin\Debug\net6.0\SingleTonDesignPattern.runtimeconfig.json
+D:\Cozentus\Training\March\firstclass\SingleTonDesignPattern\bin\Debug\net6.0\SingleTonDesignPattern.dll
+D:\Cozentus\Training\March\firstclass\SingleTonDesignPattern\bin\Debug\net6.0\SingleTonDesignPattern.pdb
+D:\Cozentus\Training\March\firstclass\SingleTonDesignPattern\obj\Debug\net6.0\SingleTonDesignPattern.csproj.AssemblyReference.cache
+D:\Cozentus\Training\March\firstclass\SingleTonDesignPattern\obj\Debug\net6.0\SingleTonDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cozentus\Training\March\firstclass\SingleTonDesignPattern\obj\Debug\net6.0\SingleTonDesignPattern.AssemblyInfoInputs.cache
+D:\Cozentus\Training\March\firstclass\SingleTonDesignPattern\obj\Debug\net6.0\SingleTonDesignPattern.AssemblyInfo.cs
+D:\Cozentus\Training\March\firstclass\SingleTonDesignPattern\obj\Debug\net6.0\SingleTonDesignPattern.csproj.CoreCompileInputs.cache
+D:\Cozentus\Training\March\firstclass\SingleTonDesignPattern\obj\Debug\net6.0\SingleTonDesignPattern.dll
+D:\Cozentus\Training\March\firstclass\SingleTonDesignPattern\obj\Debug\net6.0\refint\SingleTonDesignPattern.dll
+D:\Cozentus\Training\March\firstclass\SingleTonDesignPattern\obj\Debug\net6.0\SingleTonDesignPattern.pdb
+D:\Cozentus\Training\March\firstclass\SingleTonDesignPattern\obj\Debug\net6.0\SingleTonDesignPattern.genruntimeconfig.cache
+D:\Cozentus\Training\March\firstclass\SingleTonDesignPattern\obj\Debug\net6.0\ref\SingleTonDesignPattern.dll

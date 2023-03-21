@@ -1,0 +1,15 @@
+D:\Cozentus\Training\March\firstclass\KeywordPractiseDemo\bin\Debug\net6.0\KeywordPractiseDemo.exe
+D:\Cozentus\Training\March\firstclass\KeywordPractiseDemo\bin\Debug\net6.0\KeywordPractiseDemo.deps.json
+D:\Cozentus\Training\March\firstclass\KeywordPractiseDemo\bin\Debug\net6.0\KeywordPractiseDemo.runtimeconfig.json
+D:\Cozentus\Training\March\firstclass\KeywordPractiseDemo\bin\Debug\net6.0\KeywordPractiseDemo.dll
+D:\Cozentus\Training\March\firstclass\KeywordPractiseDemo\bin\Debug\net6.0\KeywordPractiseDemo.pdb
+D:\Cozentus\Training\March\firstclass\KeywordPractiseDemo\obj\Debug\net6.0\KeywordPractiseDemo.csproj.AssemblyReference.cache
+D:\Cozentus\Training\March\firstclass\KeywordPractiseDemo\obj\Debug\net6.0\KeywordPractiseDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cozentus\Training\March\firstclass\KeywordPractiseDemo\obj\Debug\net6.0\KeywordPractiseDemo.AssemblyInfoInputs.cache
+D:\Cozentus\Training\March\firstclass\KeywordPractiseDemo\obj\Debug\net6.0\KeywordPractiseDemo.AssemblyInfo.cs
+D:\Cozentus\Training\March\firstclass\KeywordPractiseDemo\obj\Debug\net6.0\KeywordPractiseDemo.csproj.CoreCompileInputs.cache
+D:\Cozentus\Training\March\firstclass\KeywordPractiseDemo\obj\Debug\net6.0\KeywordPractiseDemo.dll
+D:\Cozentus\Training\March\firstclass\KeywordPractiseDemo\obj\Debug\net6.0\refint\KeywordPractiseDemo.dll
+D:\Cozentus\Training\March\firstclass\KeywordPractiseDemo\obj\Debug\net6.0\KeywordPractiseDemo.pdb
+D:\Cozentus\Training\March\firstclass\KeywordPractiseDemo\obj\Debug\net6.0\KeywordPractiseDemo.genruntimeconfig.cache
+D:\Cozentus\Training\March\firstclass\KeywordPractiseDemo\obj\Debug\net6.0\ref\KeywordPractiseDemo.dll
