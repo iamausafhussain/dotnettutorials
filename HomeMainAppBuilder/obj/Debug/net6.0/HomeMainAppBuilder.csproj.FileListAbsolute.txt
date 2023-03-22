@@ -1,0 +1,15 @@
+D:\Cozentus\Training\March\firstclass\HomeMainAppBuilder\bin\Debug\net6.0\HomeMainAppBuilder.exe
+D:\Cozentus\Training\March\firstclass\HomeMainAppBuilder\bin\Debug\net6.0\HomeMainAppBuilder.deps.json
+D:\Cozentus\Training\March\firstclass\HomeMainAppBuilder\bin\Debug\net6.0\HomeMainAppBuilder.runtimeconfig.json
+D:\Cozentus\Training\March\firstclass\HomeMainAppBuilder\bin\Debug\net6.0\HomeMainAppBuilder.dll
+D:\Cozentus\Training\March\firstclass\HomeMainAppBuilder\bin\Debug\net6.0\HomeMainAppBuilder.pdb
+D:\Cozentus\Training\March\firstclass\HomeMainAppBuilder\obj\Debug\net6.0\HomeMainAppBuilder.csproj.AssemblyReference.cache
+D:\Cozentus\Training\March\firstclass\HomeMainAppBuilder\obj\Debug\net6.0\HomeMainAppBuilder.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cozentus\Training\March\firstclass\HomeMainAppBuilder\obj\Debug\net6.0\HomeMainAppBuilder.AssemblyInfoInputs.cache
+D:\Cozentus\Training\March\firstclass\HomeMainAppBuilder\obj\Debug\net6.0\HomeMainAppBuilder.AssemblyInfo.cs
+D:\Cozentus\Training\March\firstclass\HomeMainAppBuilder\obj\Debug\net6.0\HomeMainAppBuilder.csproj.CoreCompileInputs.cache
+D:\Cozentus\Training\March\firstclass\HomeMainAppBuilder\obj\Debug\net6.0\HomeMainAppBuilder.dll
+D:\Cozentus\Training\March\firstclass\HomeMainAppBuilder\obj\Debug\net6.0\refint\HomeMainAppBuilder.dll
+D:\Cozentus\Training\March\firstclass\HomeMainAppBuilder\obj\Debug\net6.0\HomeMainAppBuilder.pdb
+D:\Cozentus\Training\March\firstclass\HomeMainAppBuilder\obj\Debug\net6.0\HomeMainAppBuilder.genruntimeconfig.cache
+D:\Cozentus\Training\March\firstclass\HomeMainAppBuilder\obj\Debug\net6.0\ref\HomeMainAppBuilder.dll

@@ -59,9 +59,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SingleTonDesignPattern", "S
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FactorySingletonMer", "FactorySingletonMer\FactorySingletonMer.csproj", "{EF7499BF-EC34-4361-A3E8-B23DB5B17B31}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AtmFactory", "AtmFactory\AtmFactory.csproj", "{144E2FC7-9403-4B4B-9325-BD123094E54E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AtmFactory", "AtmFactory\AtmFactory.csproj", "{144E2FC7-9403-4B4B-9325-BD123094E54E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AtmSingleton", "AtmSingleton\AtmSingleton.csproj", "{E2AB5740-F84A-4A8B-B505-3CA91158B2D6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AtmSingleton", "AtmSingleton\AtmSingleton.csproj", "{E2AB5740-F84A-4A8B-B505-3CA91158B2D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuilderApp", "BuilderApp\BuilderApp.csproj", "{533D3888-2D00-4631-9B87-160F2602AC66}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeMainAppBuilder", "HomeMainAppBuilder\HomeMainAppBuilder.csproj", "{5AFCD1E9-DB2C-4426-A431-DAC5EF4071D5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -189,6 +193,14 @@ Global
 		{E2AB5740-F84A-4A8B-B505-3CA91158B2D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E2AB5740-F84A-4A8B-B505-3CA91158B2D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E2AB5740-F84A-4A8B-B505-3CA91158B2D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{533D3888-2D00-4631-9B87-160F2602AC66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{533D3888-2D00-4631-9B87-160F2602AC66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{533D3888-2D00-4631-9B87-160F2602AC66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{533D3888-2D00-4631-9B87-160F2602AC66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5AFCD1E9-DB2C-4426-A431-DAC5EF4071D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AFCD1E9-DB2C-4426-A431-DAC5EF4071D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AFCD1E9-DB2C-4426-A431-DAC5EF4071D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AFCD1E9-DB2C-4426-A431-DAC5EF4071D5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

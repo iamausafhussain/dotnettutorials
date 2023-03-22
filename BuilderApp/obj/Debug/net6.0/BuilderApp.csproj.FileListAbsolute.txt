@@ -1,0 +1,15 @@
+D:\Cozentus\Training\March\firstclass\BuilderApp\bin\Debug\net6.0\BuilderApp.exe
+D:\Cozentus\Training\March\firstclass\BuilderApp\bin\Debug\net6.0\BuilderApp.deps.json
+D:\Cozentus\Training\March\firstclass\BuilderApp\bin\Debug\net6.0\BuilderApp.runtimeconfig.json
+D:\Cozentus\Training\March\firstclass\BuilderApp\bin\Debug\net6.0\BuilderApp.dll
+D:\Cozentus\Training\March\firstclass\BuilderApp\bin\Debug\net6.0\BuilderApp.pdb
+D:\Cozentus\Training\March\firstclass\BuilderApp\obj\Debug\net6.0\BuilderApp.csproj.AssemblyReference.cache
+D:\Cozentus\Training\March\firstclass\BuilderApp\obj\Debug\net6.0\BuilderApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cozentus\Training\March\firstclass\BuilderApp\obj\Debug\net6.0\BuilderApp.AssemblyInfoInputs.cache
+D:\Cozentus\Training\March\firstclass\BuilderApp\obj\Debug\net6.0\BuilderApp.AssemblyInfo.cs
+D:\Cozentus\Training\March\firstclass\BuilderApp\obj\Debug\net6.0\BuilderApp.csproj.CoreCompileInputs.cache
+D:\Cozentus\Training\March\firstclass\BuilderApp\obj\Debug\net6.0\BuilderApp.dll
+D:\Cozentus\Training\March\firstclass\BuilderApp\obj\Debug\net6.0\refint\BuilderApp.dll
+D:\Cozentus\Training\March\firstclass\BuilderApp\obj\Debug\net6.0\BuilderApp.pdb
+D:\Cozentus\Training\March\firstclass\BuilderApp\obj\Debug\net6.0\BuilderApp.genruntimeconfig.cache
+D:\Cozentus\Training\March\firstclass\BuilderApp\obj\Debug\net6.0\ref\BuilderApp.dll
