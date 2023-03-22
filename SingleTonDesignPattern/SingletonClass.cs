@@ -2,7 +2,9 @@
 {
     public sealed class SingletonClass
     {
+
         public static int counter = 0;
+
         public static SingletonClass instance = null;
         public static SingletonClass GetInstance
         {
