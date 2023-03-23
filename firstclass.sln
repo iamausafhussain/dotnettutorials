@@ -67,7 +67,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BuilderApp", "BuilderApp\Bu
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HomeMainAppBuilder", "HomeMainAppBuilder\HomeMainAppBuilder.csproj", "{5AFCD1E9-DB2C-4426-A431-DAC5EF4071D5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BurgerMain", "BurgerMain\BurgerMain.csproj", "{BCAF8E0D-2346-4DF1-8BC8-8B14EC51D4BF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BurgerMain", "BurgerMain\BurgerMain.csproj", "{BCAF8E0D-2346-4DF1-8BC8-8B14EC51D4BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FacadeDemo", "FacadeDemo\FacadeDemo.csproj", "{34D0F143-ED41-41BC-A643-B31525420C15}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -207,6 +209,10 @@ Global
 		{BCAF8E0D-2346-4DF1-8BC8-8B14EC51D4BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BCAF8E0D-2346-4DF1-8BC8-8B14EC51D4BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BCAF8E0D-2346-4DF1-8BC8-8B14EC51D4BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34D0F143-ED41-41BC-A643-B31525420C15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34D0F143-ED41-41BC-A643-B31525420C15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34D0F143-ED41-41BC-A643-B31525420C15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34D0F143-ED41-41BC-A643-B31525420C15}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

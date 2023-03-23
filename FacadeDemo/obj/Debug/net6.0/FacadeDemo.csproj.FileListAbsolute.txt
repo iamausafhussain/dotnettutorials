@@ -1,0 +1,15 @@
+D:\Cozentus\Training\March\firstclass\FacadeDemo\bin\Debug\net6.0\FacadeDemo.exe
+D:\Cozentus\Training\March\firstclass\FacadeDemo\bin\Debug\net6.0\FacadeDemo.deps.json
+D:\Cozentus\Training\March\firstclass\FacadeDemo\bin\Debug\net6.0\FacadeDemo.runtimeconfig.json
+D:\Cozentus\Training\March\firstclass\FacadeDemo\bin\Debug\net6.0\FacadeDemo.dll
+D:\Cozentus\Training\March\firstclass\FacadeDemo\bin\Debug\net6.0\FacadeDemo.pdb
+D:\Cozentus\Training\March\firstclass\FacadeDemo\obj\Debug\net6.0\FacadeDemo.csproj.AssemblyReference.cache
+D:\Cozentus\Training\March\firstclass\FacadeDemo\obj\Debug\net6.0\FacadeDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cozentus\Training\March\firstclass\FacadeDemo\obj\Debug\net6.0\FacadeDemo.AssemblyInfoInputs.cache
+D:\Cozentus\Training\March\firstclass\FacadeDemo\obj\Debug\net6.0\FacadeDemo.AssemblyInfo.cs
+D:\Cozentus\Training\March\firstclass\FacadeDemo\obj\Debug\net6.0\FacadeDemo.csproj.CoreCompileInputs.cache
+D:\Cozentus\Training\March\firstclass\FacadeDemo\obj\Debug\net6.0\FacadeDemo.dll
+D:\Cozentus\Training\March\firstclass\FacadeDemo\obj\Debug\net6.0\refint\FacadeDemo.dll
+D:\Cozentus\Training\March\firstclass\FacadeDemo\obj\Debug\net6.0\FacadeDemo.pdb
+D:\Cozentus\Training\March\firstclass\FacadeDemo\obj\Debug\net6.0\FacadeDemo.genruntimeconfig.cache
+D:\Cozentus\Training\March\firstclass\FacadeDemo\obj\Debug\net6.0\ref\FacadeDemo.dll
