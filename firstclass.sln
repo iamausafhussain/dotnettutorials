@@ -71,6 +71,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BurgerMain", "BurgerMain\Bu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FacadeDemo", "FacadeDemo\FacadeDemo.csproj", "{34D0F143-ED41-41BC-A643-B31525420C15}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FacadeScientificCalculator", "FacadeScientificCalculator\FacadeScientificCalculator.csproj", "{31656C22-5940-408E-9DB1-4B132D6D4263}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -213,6 +215,10 @@ Global
 		{34D0F143-ED41-41BC-A643-B31525420C15}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{34D0F143-ED41-41BC-A643-B31525420C15}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{34D0F143-ED41-41BC-A643-B31525420C15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31656C22-5940-408E-9DB1-4B132D6D4263}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31656C22-5940-408E-9DB1-4B132D6D4263}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31656C22-5940-408E-9DB1-4B132D6D4263}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31656C22-5940-408E-9DB1-4B132D6D4263}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

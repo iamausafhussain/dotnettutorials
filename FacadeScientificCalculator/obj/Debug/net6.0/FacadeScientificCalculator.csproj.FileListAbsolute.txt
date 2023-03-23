@@ -1,0 +1,15 @@
+D:\Cozentus\Training\March\firstclass\FacadeScientificCalculator\bin\Debug\net6.0\FacadeScientificCalculator.exe
+D:\Cozentus\Training\March\firstclass\FacadeScientificCalculator\bin\Debug\net6.0\FacadeScientificCalculator.deps.json
+D:\Cozentus\Training\March\firstclass\FacadeScientificCalculator\bin\Debug\net6.0\FacadeScientificCalculator.runtimeconfig.json
+D:\Cozentus\Training\March\firstclass\FacadeScientificCalculator\bin\Debug\net6.0\FacadeScientificCalculator.dll
+D:\Cozentus\Training\March\firstclass\FacadeScientificCalculator\bin\Debug\net6.0\FacadeScientificCalculator.pdb
+D:\Cozentus\Training\March\firstclass\FacadeScientificCalculator\obj\Debug\net6.0\FacadeScientificCalculator.csproj.AssemblyReference.cache
+D:\Cozentus\Training\March\firstclass\FacadeScientificCalculator\obj\Debug\net6.0\FacadeScientificCalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cozentus\Training\March\firstclass\FacadeScientificCalculator\obj\Debug\net6.0\FacadeScientificCalculator.AssemblyInfoInputs.cache
+D:\Cozentus\Training\March\firstclass\FacadeScientificCalculator\obj\Debug\net6.0\FacadeScientificCalculator.AssemblyInfo.cs
+D:\Cozentus\Training\March\firstclass\FacadeScientificCalculator\obj\Debug\net6.0\FacadeScientificCalculator.csproj.CoreCompileInputs.cache
+D:\Cozentus\Training\March\firstclass\FacadeScientificCalculator\obj\Debug\net6.0\FacadeScientificCalculator.dll
+D:\Cozentus\Training\March\firstclass\FacadeScientificCalculator\obj\Debug\net6.0\refint\FacadeScientificCalculator.dll
+D:\Cozentus\Training\March\firstclass\FacadeScientificCalculator\obj\Debug\net6.0\FacadeScientificCalculator.pdb
+D:\Cozentus\Training\March\firstclass\FacadeScientificCalculator\obj\Debug\net6.0\FacadeScientificCalculator.genruntimeconfig.cache
+D:\Cozentus\Training\March\firstclass\FacadeScientificCalculator\obj\Debug\net6.0\ref\FacadeScientificCalculator.dll
