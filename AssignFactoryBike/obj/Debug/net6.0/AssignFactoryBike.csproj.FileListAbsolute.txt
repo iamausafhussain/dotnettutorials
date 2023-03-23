@@ -1,0 +1,15 @@
+D:\Cozentus\Training\March\firstclass\AssignFactoryBike\bin\Debug\net6.0\AssignFactoryBike.exe
+D:\Cozentus\Training\March\firstclass\AssignFactoryBike\bin\Debug\net6.0\AssignFactoryBike.deps.json
+D:\Cozentus\Training\March\firstclass\AssignFactoryBike\bin\Debug\net6.0\AssignFactoryBike.runtimeconfig.json
+D:\Cozentus\Training\March\firstclass\AssignFactoryBike\bin\Debug\net6.0\AssignFactoryBike.dll
+D:\Cozentus\Training\March\firstclass\AssignFactoryBike\bin\Debug\net6.0\AssignFactoryBike.pdb
+D:\Cozentus\Training\March\firstclass\AssignFactoryBike\obj\Debug\net6.0\AssignFactoryBike.csproj.AssemblyReference.cache
+D:\Cozentus\Training\March\firstclass\AssignFactoryBike\obj\Debug\net6.0\AssignFactoryBike.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cozentus\Training\March\firstclass\AssignFactoryBike\obj\Debug\net6.0\AssignFactoryBike.AssemblyInfoInputs.cache
+D:\Cozentus\Training\March\firstclass\AssignFactoryBike\obj\Debug\net6.0\AssignFactoryBike.AssemblyInfo.cs
+D:\Cozentus\Training\March\firstclass\AssignFactoryBike\obj\Debug\net6.0\AssignFactoryBike.csproj.CoreCompileInputs.cache
+D:\Cozentus\Training\March\firstclass\AssignFactoryBike\obj\Debug\net6.0\AssignFactoryBike.dll
+D:\Cozentus\Training\March\firstclass\AssignFactoryBike\obj\Debug\net6.0\refint\AssignFactoryBike.dll
+D:\Cozentus\Training\March\firstclass\AssignFactoryBike\obj\Debug\net6.0\AssignFactoryBike.pdb
+D:\Cozentus\Training\March\firstclass\AssignFactoryBike\obj\Debug\net6.0\AssignFactoryBike.genruntimeconfig.cache
+D:\Cozentus\Training\March\firstclass\AssignFactoryBike\obj\Debug\net6.0\ref\AssignFactoryBike.dll

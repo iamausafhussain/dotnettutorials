@@ -69,9 +69,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HomeMainAppBuilder", "HomeM
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BurgerMain", "BurgerMain\BurgerMain.csproj", "{BCAF8E0D-2346-4DF1-8BC8-8B14EC51D4BF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FacadeDemo", "FacadeDemo\FacadeDemo.csproj", "{34D0F143-ED41-41BC-A643-B31525420C15}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FacadeDemo", "FacadeDemo\FacadeDemo.csproj", "{34D0F143-ED41-41BC-A643-B31525420C15}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FacadeScientificCalculator", "FacadeScientificCalculator\FacadeScientificCalculator.csproj", "{31656C22-5940-408E-9DB1-4B132D6D4263}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FacadeScientificCalculator", "FacadeScientificCalculator\FacadeScientificCalculator.csproj", "{31656C22-5940-408E-9DB1-4B132D6D4263}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AssignTemplateDocument", "AssignTemplateDocument\AssignTemplateDocument.csproj", "{960512E7-00BF-4659-AC39-0CE8E064942E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AssignFactoryBike", "AssignFactoryBike\AssignFactoryBike.csproj", "{6FE2E30A-2EA9-4E62-9A24-4D1D207A935E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -219,6 +223,14 @@ Global
 		{31656C22-5940-408E-9DB1-4B132D6D4263}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{31656C22-5940-408E-9DB1-4B132D6D4263}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{31656C22-5940-408E-9DB1-4B132D6D4263}.Release|Any CPU.Build.0 = Release|Any CPU
+		{960512E7-00BF-4659-AC39-0CE8E064942E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{960512E7-00BF-4659-AC39-0CE8E064942E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{960512E7-00BF-4659-AC39-0CE8E064942E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{960512E7-00BF-4659-AC39-0CE8E064942E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FE2E30A-2EA9-4E62-9A24-4D1D207A935E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FE2E30A-2EA9-4E62-9A24-4D1D207A935E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FE2E30A-2EA9-4E62-9A24-4D1D207A935E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FE2E30A-2EA9-4E62-9A24-4D1D207A935E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

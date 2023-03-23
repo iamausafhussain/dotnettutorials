@@ -1,0 +1,15 @@
+D:\Cozentus\Training\March\firstclass\AssignTemplateDocument\bin\Debug\net6.0\AssignTemplateDocument.exe
+D:\Cozentus\Training\March\firstclass\AssignTemplateDocument\bin\Debug\net6.0\AssignTemplateDocument.deps.json
+D:\Cozentus\Training\March\firstclass\AssignTemplateDocument\bin\Debug\net6.0\AssignTemplateDocument.runtimeconfig.json
+D:\Cozentus\Training\March\firstclass\AssignTemplateDocument\bin\Debug\net6.0\AssignTemplateDocument.dll
+D:\Cozentus\Training\March\firstclass\AssignTemplateDocument\bin\Debug\net6.0\AssignTemplateDocument.pdb
+D:\Cozentus\Training\March\firstclass\AssignTemplateDocument\obj\Debug\net6.0\AssignTemplateDocument.csproj.AssemblyReference.cache
+D:\Cozentus\Training\March\firstclass\AssignTemplateDocument\obj\Debug\net6.0\AssignTemplateDocument.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cozentus\Training\March\firstclass\AssignTemplateDocument\obj\Debug\net6.0\AssignTemplateDocument.AssemblyInfoInputs.cache
+D:\Cozentus\Training\March\firstclass\AssignTemplateDocument\obj\Debug\net6.0\AssignTemplateDocument.AssemblyInfo.cs
+D:\Cozentus\Training\March\firstclass\AssignTemplateDocument\obj\Debug\net6.0\AssignTemplateDocument.csproj.CoreCompileInputs.cache
+D:\Cozentus\Training\March\firstclass\AssignTemplateDocument\obj\Debug\net6.0\AssignTemplateDocument.dll
+D:\Cozentus\Training\March\firstclass\AssignTemplateDocument\obj\Debug\net6.0\refint\AssignTemplateDocument.dll
+D:\Cozentus\Training\March\firstclass\AssignTemplateDocument\obj\Debug\net6.0\AssignTemplateDocument.pdb
+D:\Cozentus\Training\March\firstclass\AssignTemplateDocument\obj\Debug\net6.0\AssignTemplateDocument.genruntimeconfig.cache
+D:\Cozentus\Training\March\firstclass\AssignTemplateDocument\obj\Debug\net6.0\ref\AssignTemplateDocument.dll
