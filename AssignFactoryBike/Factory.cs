@@ -5,15 +5,15 @@
         public static AbsBike GetInstance(string objectType)
         {
             AbsBike instance = null;
-            if (objectType == "yellow")
+            if (objectType.ToLower() == "yellow")
             {
                 instance = new YellowBike();
             }
-            else if (objectType == "blue")
+            else if (objectType.ToLower() == "blue")
             {
                 instance = new BlueBike();
             }
-            else if (objectType == "red")
+            else if (objectType.ToLower() == "red")
             {
                 instance = new RedBike();
             }
