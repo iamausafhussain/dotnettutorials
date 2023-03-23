@@ -1,0 +1,15 @@
+D:\Cozentus\Training\March\firstclass\BurgerMain\bin\Debug\net6.0\BurgerMain.exe
+D:\Cozentus\Training\March\firstclass\BurgerMain\bin\Debug\net6.0\BurgerMain.deps.json
+D:\Cozentus\Training\March\firstclass\BurgerMain\bin\Debug\net6.0\BurgerMain.runtimeconfig.json
+D:\Cozentus\Training\March\firstclass\BurgerMain\bin\Debug\net6.0\BurgerMain.dll
+D:\Cozentus\Training\March\firstclass\BurgerMain\bin\Debug\net6.0\BurgerMain.pdb
+D:\Cozentus\Training\March\firstclass\BurgerMain\obj\Debug\net6.0\BurgerMain.csproj.AssemblyReference.cache
+D:\Cozentus\Training\March\firstclass\BurgerMain\obj\Debug\net6.0\BurgerMain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cozentus\Training\March\firstclass\BurgerMain\obj\Debug\net6.0\BurgerMain.AssemblyInfoInputs.cache
+D:\Cozentus\Training\March\firstclass\BurgerMain\obj\Debug\net6.0\BurgerMain.AssemblyInfo.cs
+D:\Cozentus\Training\March\firstclass\BurgerMain\obj\Debug\net6.0\BurgerMain.csproj.CoreCompileInputs.cache
+D:\Cozentus\Training\March\firstclass\BurgerMain\obj\Debug\net6.0\BurgerMain.dll
+D:\Cozentus\Training\March\firstclass\BurgerMain\obj\Debug\net6.0\refint\BurgerMain.dll
+D:\Cozentus\Training\March\firstclass\BurgerMain\obj\Debug\net6.0\BurgerMain.pdb
+D:\Cozentus\Training\March\firstclass\BurgerMain\obj\Debug\net6.0\BurgerMain.genruntimeconfig.cache
+D:\Cozentus\Training\March\firstclass\BurgerMain\obj\Debug\net6.0\ref\BurgerMain.dll
