@@ -77,6 +77,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AssignTemplateDocument", "A
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AssignFactoryBike", "AssignFactoryBike\AssignFactoryBike.csproj", "{6FE2E30A-2EA9-4E62-9A24-4D1D207A935E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AssignBuilderPrinter", "AssignBuilderPrinter\AssignBuilderPrinter.csproj", "{80B1F1F1-AE7A-4D38-B80B-56CAF0C39959}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AssignFacadeMobile", "AssignFacadeMobile\AssignFacadeMobile.csproj", "{22B7913E-25B0-4BD5-84B8-DADDC54C0DFD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -231,6 +235,14 @@ Global
 		{6FE2E30A-2EA9-4E62-9A24-4D1D207A935E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6FE2E30A-2EA9-4E62-9A24-4D1D207A935E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6FE2E30A-2EA9-4E62-9A24-4D1D207A935E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80B1F1F1-AE7A-4D38-B80B-56CAF0C39959}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80B1F1F1-AE7A-4D38-B80B-56CAF0C39959}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80B1F1F1-AE7A-4D38-B80B-56CAF0C39959}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80B1F1F1-AE7A-4D38-B80B-56CAF0C39959}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22B7913E-25B0-4BD5-84B8-DADDC54C0DFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22B7913E-25B0-4BD5-84B8-DADDC54C0DFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22B7913E-25B0-4BD5-84B8-DADDC54C0DFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22B7913E-25B0-4BD5-84B8-DADDC54C0DFD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

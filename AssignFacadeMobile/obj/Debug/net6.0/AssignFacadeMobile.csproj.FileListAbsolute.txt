@@ -1,0 +1,15 @@
+D:\Cozentus\Training\March\firstclass\AssignFacadeMobile\bin\Debug\net6.0\AssignFacadeMobile.exe
+D:\Cozentus\Training\March\firstclass\AssignFacadeMobile\bin\Debug\net6.0\AssignFacadeMobile.deps.json
+D:\Cozentus\Training\March\firstclass\AssignFacadeMobile\bin\Debug\net6.0\AssignFacadeMobile.runtimeconfig.json
+D:\Cozentus\Training\March\firstclass\AssignFacadeMobile\bin\Debug\net6.0\AssignFacadeMobile.dll
+D:\Cozentus\Training\March\firstclass\AssignFacadeMobile\bin\Debug\net6.0\AssignFacadeMobile.pdb
+D:\Cozentus\Training\March\firstclass\AssignFacadeMobile\obj\Debug\net6.0\AssignFacadeMobile.csproj.AssemblyReference.cache
+D:\Cozentus\Training\March\firstclass\AssignFacadeMobile\obj\Debug\net6.0\AssignFacadeMobile.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cozentus\Training\March\firstclass\AssignFacadeMobile\obj\Debug\net6.0\AssignFacadeMobile.AssemblyInfoInputs.cache
+D:\Cozentus\Training\March\firstclass\AssignFacadeMobile\obj\Debug\net6.0\AssignFacadeMobile.AssemblyInfo.cs
+D:\Cozentus\Training\March\firstclass\AssignFacadeMobile\obj\Debug\net6.0\AssignFacadeMobile.csproj.CoreCompileInputs.cache
+D:\Cozentus\Training\March\firstclass\AssignFacadeMobile\obj\Debug\net6.0\AssignFacadeMobile.dll
+D:\Cozentus\Training\March\firstclass\AssignFacadeMobile\obj\Debug\net6.0\refint\AssignFacadeMobile.dll
+D:\Cozentus\Training\March\firstclass\AssignFacadeMobile\obj\Debug\net6.0\AssignFacadeMobile.pdb
+D:\Cozentus\Training\March\firstclass\AssignFacadeMobile\obj\Debug\net6.0\AssignFacadeMobile.genruntimeconfig.cache
+D:\Cozentus\Training\March\firstclass\AssignFacadeMobile\obj\Debug\net6.0\ref\AssignFacadeMobile.dll

@@ -1,0 +1,15 @@
+D:\Cozentus\Training\March\firstclass\AssignBuilderPrinter\bin\Debug\net6.0\AssignBuilderPrinter.exe
+D:\Cozentus\Training\March\firstclass\AssignBuilderPrinter\bin\Debug\net6.0\AssignBuilderPrinter.deps.json
+D:\Cozentus\Training\March\firstclass\AssignBuilderPrinter\bin\Debug\net6.0\AssignBuilderPrinter.runtimeconfig.json
+D:\Cozentus\Training\March\firstclass\AssignBuilderPrinter\bin\Debug\net6.0\AssignBuilderPrinter.dll
+D:\Cozentus\Training\March\firstclass\AssignBuilderPrinter\bin\Debug\net6.0\AssignBuilderPrinter.pdb
+D:\Cozentus\Training\March\firstclass\AssignBuilderPrinter\obj\Debug\net6.0\AssignBuilderPrinter.csproj.AssemblyReference.cache
+D:\Cozentus\Training\March\firstclass\AssignBuilderPrinter\obj\Debug\net6.0\AssignBuilderPrinter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cozentus\Training\March\firstclass\AssignBuilderPrinter\obj\Debug\net6.0\AssignBuilderPrinter.AssemblyInfoInputs.cache
+D:\Cozentus\Training\March\firstclass\AssignBuilderPrinter\obj\Debug\net6.0\AssignBuilderPrinter.AssemblyInfo.cs
+D:\Cozentus\Training\March\firstclass\AssignBuilderPrinter\obj\Debug\net6.0\AssignBuilderPrinter.csproj.CoreCompileInputs.cache
+D:\Cozentus\Training\March\firstclass\AssignBuilderPrinter\obj\Debug\net6.0\AssignBuilderPrinter.dll
+D:\Cozentus\Training\March\firstclass\AssignBuilderPrinter\obj\Debug\net6.0\refint\AssignBuilderPrinter.dll
+D:\Cozentus\Training\March\firstclass\AssignBuilderPrinter\obj\Debug\net6.0\AssignBuilderPrinter.pdb
+D:\Cozentus\Training\March\firstclass\AssignBuilderPrinter\obj\Debug\net6.0\AssignBuilderPrinter.genruntimeconfig.cache
+D:\Cozentus\Training\March\firstclass\AssignBuilderPrinter\obj\Debug\net6.0\ref\AssignBuilderPrinter.dll

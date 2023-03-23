@@ -50,11 +50,6 @@
             {
                 this.extraCheese = extraCheese;
             }
-            /*this.bread = bread;
-            this.patty = patty;
-            this.veggies = veggies;
-            this.sauces = sauces;
-            this.extraCheese = extraCheese;*/
         }
 
         public void DisplayBurger()
