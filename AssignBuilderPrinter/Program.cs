@@ -9,11 +9,12 @@
                 .PrintContent("pdf content")
                 .PrintFooter("pdf footer")
                 .BuildPdf();
-
             pdf.PrintHeader();
             pdf.PrintContent();
             pdf.PrintFooter();
+
             Console.WriteLine();
+
             HtmlPrinter html = new SystemBuilderPrinter()
                 .PrintHeader("html header")
                 .PrintContent("html content")
