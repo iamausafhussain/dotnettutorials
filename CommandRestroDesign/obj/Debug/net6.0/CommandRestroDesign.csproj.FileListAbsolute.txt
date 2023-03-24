@@ -1,0 +1,15 @@
+D:\Cozentus\Training\March\firstclass\CommandRestroDesign\bin\Debug\net6.0\CommandRestroDesign.exe
+D:\Cozentus\Training\March\firstclass\CommandRestroDesign\bin\Debug\net6.0\CommandRestroDesign.deps.json
+D:\Cozentus\Training\March\firstclass\CommandRestroDesign\bin\Debug\net6.0\CommandRestroDesign.runtimeconfig.json
+D:\Cozentus\Training\March\firstclass\CommandRestroDesign\bin\Debug\net6.0\CommandRestroDesign.dll
+D:\Cozentus\Training\March\firstclass\CommandRestroDesign\bin\Debug\net6.0\CommandRestroDesign.pdb
+D:\Cozentus\Training\March\firstclass\CommandRestroDesign\obj\Debug\net6.0\CommandRestroDesign.csproj.AssemblyReference.cache
+D:\Cozentus\Training\March\firstclass\CommandRestroDesign\obj\Debug\net6.0\CommandRestroDesign.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cozentus\Training\March\firstclass\CommandRestroDesign\obj\Debug\net6.0\CommandRestroDesign.AssemblyInfoInputs.cache
+D:\Cozentus\Training\March\firstclass\CommandRestroDesign\obj\Debug\net6.0\CommandRestroDesign.AssemblyInfo.cs
+D:\Cozentus\Training\March\firstclass\CommandRestroDesign\obj\Debug\net6.0\CommandRestroDesign.csproj.CoreCompileInputs.cache
+D:\Cozentus\Training\March\firstclass\CommandRestroDesign\obj\Debug\net6.0\CommandRestroDesign.dll
+D:\Cozentus\Training\March\firstclass\CommandRestroDesign\obj\Debug\net6.0\refint\CommandRestroDesign.dll
+D:\Cozentus\Training\March\firstclass\CommandRestroDesign\obj\Debug\net6.0\CommandRestroDesign.pdb
+D:\Cozentus\Training\March\firstclass\CommandRestroDesign\obj\Debug\net6.0\CommandRestroDesign.genruntimeconfig.cache
+D:\Cozentus\Training\March\firstclass\CommandRestroDesign\obj\Debug\net6.0\ref\CommandRestroDesign.dll

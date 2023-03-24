@@ -7,7 +7,7 @@
             AbsBike instance = null;
             if (objectType.ToLower() == "yellow")
             {
-                instance = new YellowBike();
+                instance = new YellowBike();`
             }
             else if (objectType.ToLower() == "blue")
             {

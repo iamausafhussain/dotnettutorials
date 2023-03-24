@@ -73,13 +73,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FacadeDemo", "FacadeDemo\Fa
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FacadeScientificCalculator", "FacadeScientificCalculator\FacadeScientificCalculator.csproj", "{31656C22-5940-408E-9DB1-4B132D6D4263}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AssignTemplateDocument", "AssignTemplateDocument\AssignTemplateDocument.csproj", "{960512E7-00BF-4659-AC39-0CE8E064942E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AssignTemplateDocument", "AssignTemplateDocument\AssignTemplateDocument.csproj", "{960512E7-00BF-4659-AC39-0CE8E064942E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AssignFactoryBike", "AssignFactoryBike\AssignFactoryBike.csproj", "{6FE2E30A-2EA9-4E62-9A24-4D1D207A935E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AssignFactoryBike", "AssignFactoryBike\AssignFactoryBike.csproj", "{6FE2E30A-2EA9-4E62-9A24-4D1D207A935E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AssignBuilderPrinter", "AssignBuilderPrinter\AssignBuilderPrinter.csproj", "{80B1F1F1-AE7A-4D38-B80B-56CAF0C39959}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AssignBuilderPrinter", "AssignBuilderPrinter\AssignBuilderPrinter.csproj", "{80B1F1F1-AE7A-4D38-B80B-56CAF0C39959}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AssignFacadeMobile", "AssignFacadeMobile\AssignFacadeMobile.csproj", "{22B7913E-25B0-4BD5-84B8-DADDC54C0DFD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AssignFacadeMobile", "AssignFacadeMobile\AssignFacadeMobile.csproj", "{22B7913E-25B0-4BD5-84B8-DADDC54C0DFD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CommandPatternDemo", "CommandPatternDemo\CommandPatternDemo.csproj", "{AF42278E-D1C2-4805-8FDF-FD5DFBA967D7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ObservePatternDemo", "ObservePatternDemo\ObservePatternDemo.csproj", "{07691D18-64AA-4BCF-BD5B-0D75518BDA48}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommandRestroDesign", "CommandRestroDesign\CommandRestroDesign.csproj", "{075100C4-08E9-4FF8-965A-40B14DF93F6A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -243,6 +249,18 @@ Global
 		{22B7913E-25B0-4BD5-84B8-DADDC54C0DFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{22B7913E-25B0-4BD5-84B8-DADDC54C0DFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{22B7913E-25B0-4BD5-84B8-DADDC54C0DFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF42278E-D1C2-4805-8FDF-FD5DFBA967D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF42278E-D1C2-4805-8FDF-FD5DFBA967D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF42278E-D1C2-4805-8FDF-FD5DFBA967D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF42278E-D1C2-4805-8FDF-FD5DFBA967D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07691D18-64AA-4BCF-BD5B-0D75518BDA48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07691D18-64AA-4BCF-BD5B-0D75518BDA48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07691D18-64AA-4BCF-BD5B-0D75518BDA48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07691D18-64AA-4BCF-BD5B-0D75518BDA48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{075100C4-08E9-4FF8-965A-40B14DF93F6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{075100C4-08E9-4FF8-965A-40B14DF93F6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{075100C4-08E9-4FF8-965A-40B14DF93F6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{075100C4-08E9-4FF8-965A-40B14DF93F6A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

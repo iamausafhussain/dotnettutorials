@@ -1,0 +1,15 @@
+D:\Cozentus\Training\March\firstclass\CommandPatternDemo\bin\Debug\net6.0\CommandPatternDemo.exe
+D:\Cozentus\Training\March\firstclass\CommandPatternDemo\bin\Debug\net6.0\CommandPatternDemo.deps.json
+D:\Cozentus\Training\March\firstclass\CommandPatternDemo\bin\Debug\net6.0\CommandPatternDemo.runtimeconfig.json
+D:\Cozentus\Training\March\firstclass\CommandPatternDemo\bin\Debug\net6.0\CommandPatternDemo.dll
+D:\Cozentus\Training\March\firstclass\CommandPatternDemo\bin\Debug\net6.0\CommandPatternDemo.pdb
+D:\Cozentus\Training\March\firstclass\CommandPatternDemo\obj\Debug\net6.0\CommandPatternDemo.csproj.AssemblyReference.cache
+D:\Cozentus\Training\March\firstclass\CommandPatternDemo\obj\Debug\net6.0\CommandPatternDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cozentus\Training\March\firstclass\CommandPatternDemo\obj\Debug\net6.0\CommandPatternDemo.AssemblyInfoInputs.cache
+D:\Cozentus\Training\March\firstclass\CommandPatternDemo\obj\Debug\net6.0\CommandPatternDemo.AssemblyInfo.cs
+D:\Cozentus\Training\March\firstclass\CommandPatternDemo\obj\Debug\net6.0\CommandPatternDemo.csproj.CoreCompileInputs.cache
+D:\Cozentus\Training\March\firstclass\CommandPatternDemo\obj\Debug\net6.0\CommandPatternDemo.dll
+D:\Cozentus\Training\March\firstclass\CommandPatternDemo\obj\Debug\net6.0\refint\CommandPatternDemo.dll
+D:\Cozentus\Training\March\firstclass\CommandPatternDemo\obj\Debug\net6.0\CommandPatternDemo.pdb
+D:\Cozentus\Training\March\firstclass\CommandPatternDemo\obj\Debug\net6.0\CommandPatternDemo.genruntimeconfig.cache
+D:\Cozentus\Training\March\firstclass\CommandPatternDemo\obj\Debug\net6.0\ref\CommandPatternDemo.dll
