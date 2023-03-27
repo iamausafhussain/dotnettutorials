@@ -87,7 +87,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ObservePatternDemo", "Obser
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CommandRestroDesign", "CommandRestroDesign\CommandRestroDesign.csproj", "{075100C4-08E9-4FF8-965A-40B14DF93F6A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqDemo", "LinqDemo\LinqDemo.csproj", "{AD53D4A8-E5FA-482A-9F5A-649E690D9816}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LinqDemo", "LinqDemo\LinqDemo.csproj", "{AD53D4A8-E5FA-482A-9F5A-649E690D9816}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqEmp", "LinqEmp\LinqEmp.csproj", "{7E061BC5-46DA-48DC-9502-C2F8BB3CB2DD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -267,6 +269,10 @@ Global
 		{AD53D4A8-E5FA-482A-9F5A-649E690D9816}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AD53D4A8-E5FA-482A-9F5A-649E690D9816}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AD53D4A8-E5FA-482A-9F5A-649E690D9816}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E061BC5-46DA-48DC-9502-C2F8BB3CB2DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E061BC5-46DA-48DC-9502-C2F8BB3CB2DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E061BC5-46DA-48DC-9502-C2F8BB3CB2DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E061BC5-46DA-48DC-9502-C2F8BB3CB2DD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
