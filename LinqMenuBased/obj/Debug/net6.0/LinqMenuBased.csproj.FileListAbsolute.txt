@@ -1,0 +1,15 @@
+D:\Cozentus\Training\March\firstclass\LinqMenuBased\obj\Debug\net6.0\LinqMenuBased.csproj.AssemblyReference.cache
+D:\Cozentus\Training\March\firstclass\LinqMenuBased\obj\Debug\net6.0\LinqMenuBased.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cozentus\Training\March\firstclass\LinqMenuBased\obj\Debug\net6.0\LinqMenuBased.AssemblyInfoInputs.cache
+D:\Cozentus\Training\March\firstclass\LinqMenuBased\obj\Debug\net6.0\LinqMenuBased.AssemblyInfo.cs
+D:\Cozentus\Training\March\firstclass\LinqMenuBased\obj\Debug\net6.0\LinqMenuBased.csproj.CoreCompileInputs.cache
+D:\Cozentus\Training\March\firstclass\LinqMenuBased\bin\Debug\net6.0\LinqMenuBased.exe
+D:\Cozentus\Training\March\firstclass\LinqMenuBased\bin\Debug\net6.0\LinqMenuBased.deps.json
+D:\Cozentus\Training\March\firstclass\LinqMenuBased\bin\Debug\net6.0\LinqMenuBased.runtimeconfig.json
+D:\Cozentus\Training\March\firstclass\LinqMenuBased\bin\Debug\net6.0\LinqMenuBased.dll
+D:\Cozentus\Training\March\firstclass\LinqMenuBased\bin\Debug\net6.0\LinqMenuBased.pdb
+D:\Cozentus\Training\March\firstclass\LinqMenuBased\obj\Debug\net6.0\LinqMenuBased.dll
+D:\Cozentus\Training\March\firstclass\LinqMenuBased\obj\Debug\net6.0\refint\LinqMenuBased.dll
+D:\Cozentus\Training\March\firstclass\LinqMenuBased\obj\Debug\net6.0\LinqMenuBased.pdb
+D:\Cozentus\Training\March\firstclass\LinqMenuBased\obj\Debug\net6.0\LinqMenuBased.genruntimeconfig.cache
+D:\Cozentus\Training\March\firstclass\LinqMenuBased\obj\Debug\net6.0\ref\LinqMenuBased.dll

@@ -4,13 +4,17 @@
     {
         static void Main(string[] args)
         {
-            List<Employee> employees = new List<Employee>
-            {
-                new Employee {Id = 1, Name ="Aruhi", Address="PUI"},
-                new Employee {Id = 2, Name ="Ausaf", Address="BBSR"},
-                new Employee {Id = 3, Name ="Yasmin", Address="CTC"},
-                new Employee {Id = 4, Name ="Gourav", Address="BGLR"},
-            };
+            /*Console.WriteLine("Enter id to find");
+            int find_id = Convert.ToInt32(Console.ReadLine());
+            Program.SelectOdd(find_id);*/
+
+            /*Console.WriteLine("Enter name to find");
+            string find_name = Console.ReadLine();
+            Program.SelectOdd(find_name);*/
+
+            Console.WriteLine("Sort Ascending");
+            Program.Sort();
+
 
             /*var data_emp = (from emp in employees
                             select emp);*/
@@ -31,6 +35,7 @@
                                   Name = i.Name
                               }).ToList();*/
 
+
             /*foreach (var item in query)
             {
                 Console.WriteLine($"Id: {item.Id} Name: {item.Name} Address: {item.Address}");
@@ -39,16 +44,47 @@
             /*---------------------------------------*/
 
             // copy data
-            var data_query = (from i in employees
+            /*var data_query = (from i in employees
                               select new EmpNew()
                               {
                                   UserId = i.Id,
                                   UserName = i.Name,
                                   City = i.Address
-                              }).ToList();
-            foreach (var item in data_query)
+                              }).ToList();*/
+        }
+
+        public static void SelectOdd(string n)
+        {
+            List<Employee> employees = new List<Employee>
             {
-                Console.WriteLine(item.UserId);
+                new Employee {Id = 1, Name ="Aruhi", Address="PUI"},
+                new Employee {Id = 2, Name ="Ausaf", Address="BBSR"},
+                new Employee {Id = 3, Name ="Yasmin", Address="CTC"},
+                new Employee {Id = 4, Name ="Gourav", Address="BGLR"},
+            };
+            var custom_emp = employees.Where(i => i.Name == n)
+                .Select(i => i);
+
+            foreach (var item in custom_emp)
+            {
+                Console.WriteLine($"Id: {item.Id} Name: {item.Name} Address: {item.Address}");
+            }
+        }
+
+        public static void Sort()
+        {
+            List<Employee> employees = new List<Employee>
+            {
+                new Employee {Id = 4, Name ="Aruhi", Address="PUI"},
+                new Employee {Id = 2, Name ="Ausaf", Address="BBSR"},
+                new Employee {Id = 1, Name ="Yasmin", Address="CTC"},
+                new Employee {Id = 3, Name ="Gourav", Address="BGLR"},
+            };
+            var sort_emp = employees.OrderBy(i => i.Id);
+
+            foreach (var item in sort_emp)
+            {
+                Console.WriteLine($"Id: {item.Id} Name: {item.Name} Address: {item.Address}");
             }
         }
     }

@@ -89,7 +89,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CommandRestroDesign", "Comm
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LinqDemo", "LinqDemo\LinqDemo.csproj", "{AD53D4A8-E5FA-482A-9F5A-649E690D9816}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqEmp", "LinqEmp\LinqEmp.csproj", "{7E061BC5-46DA-48DC-9502-C2F8BB3CB2DD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LinqEmp", "LinqEmp\LinqEmp.csproj", "{7E061BC5-46DA-48DC-9502-C2F8BB3CB2DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqMenuBased", "LinqMenuBased\LinqMenuBased.csproj", "{2318A868-8B38-40AA-BC98-E8047AF21981}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -273,6 +275,10 @@ Global
 		{7E061BC5-46DA-48DC-9502-C2F8BB3CB2DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7E061BC5-46DA-48DC-9502-C2F8BB3CB2DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7E061BC5-46DA-48DC-9502-C2F8BB3CB2DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2318A868-8B38-40AA-BC98-E8047AF21981}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2318A868-8B38-40AA-BC98-E8047AF21981}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2318A868-8B38-40AA-BC98-E8047AF21981}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2318A868-8B38-40AA-BC98-E8047AF21981}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
