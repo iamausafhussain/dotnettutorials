@@ -1,0 +1,15 @@
+D:\Cozentus\Training\March\firstclass\LinqDemo\bin\Debug\net6.0\LinqDemo.exe
+D:\Cozentus\Training\March\firstclass\LinqDemo\bin\Debug\net6.0\LinqDemo.deps.json
+D:\Cozentus\Training\March\firstclass\LinqDemo\bin\Debug\net6.0\LinqDemo.runtimeconfig.json
+D:\Cozentus\Training\March\firstclass\LinqDemo\bin\Debug\net6.0\LinqDemo.dll
+D:\Cozentus\Training\March\firstclass\LinqDemo\bin\Debug\net6.0\LinqDemo.pdb
+D:\Cozentus\Training\March\firstclass\LinqDemo\obj\Debug\net6.0\LinqDemo.csproj.AssemblyReference.cache
+D:\Cozentus\Training\March\firstclass\LinqDemo\obj\Debug\net6.0\LinqDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cozentus\Training\March\firstclass\LinqDemo\obj\Debug\net6.0\LinqDemo.AssemblyInfoInputs.cache
+D:\Cozentus\Training\March\firstclass\LinqDemo\obj\Debug\net6.0\LinqDemo.AssemblyInfo.cs
+D:\Cozentus\Training\March\firstclass\LinqDemo\obj\Debug\net6.0\LinqDemo.csproj.CoreCompileInputs.cache
+D:\Cozentus\Training\March\firstclass\LinqDemo\obj\Debug\net6.0\LinqDemo.dll
+D:\Cozentus\Training\March\firstclass\LinqDemo\obj\Debug\net6.0\refint\LinqDemo.dll
+D:\Cozentus\Training\March\firstclass\LinqDemo\obj\Debug\net6.0\LinqDemo.pdb
+D:\Cozentus\Training\March\firstclass\LinqDemo\obj\Debug\net6.0\LinqDemo.genruntimeconfig.cache
+D:\Cozentus\Training\March\firstclass\LinqDemo\obj\Debug\net6.0\ref\LinqDemo.dll
