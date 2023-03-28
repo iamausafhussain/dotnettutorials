@@ -1,0 +1,15 @@
+D:\Cozentus\Training\March\firstclass\GenericFunC\bin\Debug\net6.0\GenericFunC.exe
+D:\Cozentus\Training\March\firstclass\GenericFunC\bin\Debug\net6.0\GenericFunC.deps.json
+D:\Cozentus\Training\March\firstclass\GenericFunC\bin\Debug\net6.0\GenericFunC.runtimeconfig.json
+D:\Cozentus\Training\March\firstclass\GenericFunC\bin\Debug\net6.0\GenericFunC.dll
+D:\Cozentus\Training\March\firstclass\GenericFunC\bin\Debug\net6.0\GenericFunC.pdb
+D:\Cozentus\Training\March\firstclass\GenericFunC\obj\Debug\net6.0\GenericFunC.csproj.AssemblyReference.cache
+D:\Cozentus\Training\March\firstclass\GenericFunC\obj\Debug\net6.0\GenericFunC.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cozentus\Training\March\firstclass\GenericFunC\obj\Debug\net6.0\GenericFunC.AssemblyInfoInputs.cache
+D:\Cozentus\Training\March\firstclass\GenericFunC\obj\Debug\net6.0\GenericFunC.AssemblyInfo.cs
+D:\Cozentus\Training\March\firstclass\GenericFunC\obj\Debug\net6.0\GenericFunC.csproj.CoreCompileInputs.cache
+D:\Cozentus\Training\March\firstclass\GenericFunC\obj\Debug\net6.0\GenericFunC.dll
+D:\Cozentus\Training\March\firstclass\GenericFunC\obj\Debug\net6.0\refint\GenericFunC.dll
+D:\Cozentus\Training\March\firstclass\GenericFunC\obj\Debug\net6.0\GenericFunC.pdb
+D:\Cozentus\Training\March\firstclass\GenericFunC\obj\Debug\net6.0\GenericFunC.genruntimeconfig.cache
+D:\Cozentus\Training\March\firstclass\GenericFunC\obj\Debug\net6.0\ref\GenericFunC.dll
