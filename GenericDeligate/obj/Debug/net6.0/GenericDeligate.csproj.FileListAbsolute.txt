@@ -1,0 +1,15 @@
+D:\Cozentus\Training\March\firstclass\GenericDeligate\bin\Debug\net6.0\GenericDeligate.exe
+D:\Cozentus\Training\March\firstclass\GenericDeligate\bin\Debug\net6.0\GenericDeligate.deps.json
+D:\Cozentus\Training\March\firstclass\GenericDeligate\bin\Debug\net6.0\GenericDeligate.runtimeconfig.json
+D:\Cozentus\Training\March\firstclass\GenericDeligate\bin\Debug\net6.0\GenericDeligate.dll
+D:\Cozentus\Training\March\firstclass\GenericDeligate\bin\Debug\net6.0\GenericDeligate.pdb
+D:\Cozentus\Training\March\firstclass\GenericDeligate\obj\Debug\net6.0\GenericDeligate.csproj.AssemblyReference.cache
+D:\Cozentus\Training\March\firstclass\GenericDeligate\obj\Debug\net6.0\GenericDeligate.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cozentus\Training\March\firstclass\GenericDeligate\obj\Debug\net6.0\GenericDeligate.AssemblyInfoInputs.cache
+D:\Cozentus\Training\March\firstclass\GenericDeligate\obj\Debug\net6.0\GenericDeligate.AssemblyInfo.cs
+D:\Cozentus\Training\March\firstclass\GenericDeligate\obj\Debug\net6.0\GenericDeligate.csproj.CoreCompileInputs.cache
+D:\Cozentus\Training\March\firstclass\GenericDeligate\obj\Debug\net6.0\GenericDeligate.dll
+D:\Cozentus\Training\March\firstclass\GenericDeligate\obj\Debug\net6.0\refint\GenericDeligate.dll
+D:\Cozentus\Training\March\firstclass\GenericDeligate\obj\Debug\net6.0\GenericDeligate.pdb
+D:\Cozentus\Training\March\firstclass\GenericDeligate\obj\Debug\net6.0\GenericDeligate.genruntimeconfig.cache
+D:\Cozentus\Training\March\firstclass\GenericDeligate\obj\Debug\net6.0\ref\GenericDeligate.dll
