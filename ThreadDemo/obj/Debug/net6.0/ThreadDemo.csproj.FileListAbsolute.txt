@@ -1,0 +1,15 @@
+D:\Cozentus\Training\March\firstclass\ThreadDemo\bin\Debug\net6.0\ThreadDemo.exe
+D:\Cozentus\Training\March\firstclass\ThreadDemo\bin\Debug\net6.0\ThreadDemo.deps.json
+D:\Cozentus\Training\March\firstclass\ThreadDemo\bin\Debug\net6.0\ThreadDemo.runtimeconfig.json
+D:\Cozentus\Training\March\firstclass\ThreadDemo\bin\Debug\net6.0\ThreadDemo.dll
+D:\Cozentus\Training\March\firstclass\ThreadDemo\bin\Debug\net6.0\ThreadDemo.pdb
+D:\Cozentus\Training\March\firstclass\ThreadDemo\obj\Debug\net6.0\ThreadDemo.csproj.AssemblyReference.cache
+D:\Cozentus\Training\March\firstclass\ThreadDemo\obj\Debug\net6.0\ThreadDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cozentus\Training\March\firstclass\ThreadDemo\obj\Debug\net6.0\ThreadDemo.AssemblyInfoInputs.cache
+D:\Cozentus\Training\March\firstclass\ThreadDemo\obj\Debug\net6.0\ThreadDemo.AssemblyInfo.cs
+D:\Cozentus\Training\March\firstclass\ThreadDemo\obj\Debug\net6.0\ThreadDemo.csproj.CoreCompileInputs.cache
+D:\Cozentus\Training\March\firstclass\ThreadDemo\obj\Debug\net6.0\ThreadDemo.dll
+D:\Cozentus\Training\March\firstclass\ThreadDemo\obj\Debug\net6.0\refint\ThreadDemo.dll
+D:\Cozentus\Training\March\firstclass\ThreadDemo\obj\Debug\net6.0\ThreadDemo.pdb
+D:\Cozentus\Training\March\firstclass\ThreadDemo\obj\Debug\net6.0\ThreadDemo.genruntimeconfig.cache
+D:\Cozentus\Training\March\firstclass\ThreadDemo\obj\Debug\net6.0\ref\ThreadDemo.dll

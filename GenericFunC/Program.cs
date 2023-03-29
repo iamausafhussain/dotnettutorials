@@ -2,7 +2,7 @@
 {
     internal class Program
     {
-        //public delegate int CustomDel(int first_number, int second_number);
+        public delegate int CustomDel(int first_number, int second_number);
         public static int Sum(int first_number, int second_number)
         {
             return first_number + second_number;
@@ -13,11 +13,11 @@
         }
         static void Main(string[] args)
         {
-            /*CustomDel obj = Sum;
+            CustomDel obj = Sum;
             int result = obj.Invoke(10, 5);
-            Console.WriteLine($"The Sum is {result}");*/
+            Console.WriteLine($"The Sum is {result}");
 
-            Func<int, int, int> obj = (x, y) =>
+            /*Func<int, int, int> obj = (x, y) =>
             {
                 return x + y;
             };
@@ -41,7 +41,8 @@
             };
 
             bool p_result = predicate_obj.Invoke(3);
-            Console.WriteLine(p_result);
+            Console.WriteLine(p_result);*/
+
             /*Predicate<int> predicate_obj = (x) =>
             {
                 if (x > 5)
@@ -52,6 +53,8 @@
             };
             bool p_result = predicate_obj.Invoke(3);
             Console.WriteLine(p_result);*/
+
+
         }
     }
 }
